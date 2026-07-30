@@ -51,7 +51,7 @@ Nesta seção, registrei a evolução dos prompts utilizados dentro do NotebookL
 
 ---
 
-## 📘 Miniguia de Estudo (Entrega Final)
+## 📘 Miniguia de Estudo
 
 ### 📌 Resumos Estruturados do Assunto
 
