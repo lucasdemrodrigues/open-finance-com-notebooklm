@@ -39,7 +39,7 @@ Para garantir a acurácia técnica do NotebookLM, selecionei 8 fontes de alta au
 Nesta seção, registrei a evolução dos prompts utilizados dentro do NotebookLM para extrair análises estratégicas das fontes.
 
 ### 🔬 Teste 1: Exploração inicial
-* **Prompt V1:** *"O que as fontes dizem sobre o Open Finance?"*
+* **Prompt V1:** *"O que é Open Finance?"*
 * <details>
   <summary><strong>Resposta</strong></summary>
 
@@ -62,7 +62,8 @@ Nesta seção, registrei a evolução dos prompts utilizados dentro do NotebookL
 
   O compartilhamento é gratuito para o consumidor, depende sempre do seu consentimento e ocorre em um ambiente supervisionado pelo Banco Central, seguindo padrões de segurança e criptografia.
   </details>
-  
+
+* **Análise:** XXX
 * **Prompt V2:** *"Com base estritamente nos documentos carregados, faça uma análise comparativa entre os benefícios pretendidos pelo Banco Central e os desafios práticos enfrentados pelos bancos no segmento PJs/Empresas."*
 * **Reflexão:** Mudar a abordagem de "o que é" para "análise comparativa com foco em dor de mercado" gerou insights muito mais ricos e aplicáveis a negócios.
 
