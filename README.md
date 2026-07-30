@@ -46,13 +46,13 @@ Nesta seção, registrei a evolução dos prompts utilizados dentro do NotebookL
 
   O **Open Finance** (ou sistema financeiro aberto) é uma infraestrutura tecnológica criada pelo Banco Central do Brasil que permite o **compartilhamento padronizado de dados e serviços financeiros** entre diferentes instituições, de forma segura e ágil.
 
-  A premissa fundamental do Open Finance é que **os dados financeiros pertencem ao cliente**, e não aos bancos. Isso muda o eixo de poder no mercado, garantindo a liberdade e o controle para decidir com qual instituição, por quanto tempo e quais dados deseja compartilhar.
+  A premissa fundamental do Open Finance é que **os dados financeiros pertencem ao cliente**, e não aos bancos. Isso muda o eixo de poder no mercado, garantindo a você a liberdade e o controle para decidir com qual instituição, por quanto tempo e quais dados deseja compartilhar.
 
   Na prática, o sistema atua em duas frentes principais:
 
-  - **Compartilhamento de informações:** Permite que o histórico bancário — como saldos, extratos, faturas de cartão, histórico de crédito, investimentos e seguros — seja compartilhado entre instituições autorizadas.
+  - **Compartilhamento de informações:** Permite que você leve o seu histórico bancário — como saldos, extratos, faturas de cartão, histórico de crédito, investimentos e seguros — de uma instituição para outra. Assim, ao abrir conta em um novo banco, a instituição não precisa começar a te avaliar "do zero", pois já conhecerá o seu perfil.
 
-  - **Iniciação de transações de pagamento:** Permite realizar pagamentos utilizando o aplicativo de uma instituição, mesmo quando o dinheiro está em outra.
+  - **Iniciação de transações de pagamento:** Permite que você faça movimentações financeiras a partir de plataformas de terceiros. Por exemplo, você pode usar o aplicativo do Banco A para pagar uma conta utilizando o saldo que você possui no Banco B, sem precisar ficar trocando de aplicativo.
 
   #### Quais são os principais benefícios?
 
