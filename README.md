@@ -14,7 +14,7 @@ O tema escolhido foi Open Finance, uma iniciativa que vem transformando o sistem
 
 Compreender como o Open Finance está transformando o sistema financeiro brasileiro, explorando seus benefícios, desafios, regulamentação e impactos para consumidores, instituições financeiras e fintechs.
 
-## 👥 Público-alvo:
+## 👥 Público-alvo
 
 Estudantes, profissionais em início de carreira e pessoas interessadas em compreender como o Open Finance está transformando o sistema financeiro brasileiro.
 
