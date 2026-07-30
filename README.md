@@ -44,9 +44,9 @@ Nesta seção, registrei a evolução dos prompts utilizados dentro do NotebookL
   <details>
   <summary><strong>Resposta</strong></summary>
 
-  O **Open Finance** (ou sistema financeiro aberto) é uma infraestrutura tecnológica criada pelo Banco Central do Brasil que permite o compartilhamento padronizado de dados e serviços financeiros entre diferentes instituições, de forma segura e ágil.
+  O **Open Finance** (ou sistema financeiro aberto) é uma infraestrutura tecnológica criada pelo Banco Central do Brasil que permite o **compartilhamento padronizado de dados e serviços financeiros** entre diferentes instituições, de forma segura e ágil.
 
-  A premissa fundamental do Open Finance é que os dados financeiros pertencem ao cliente, e não aos bancos. Isso muda o eixo de poder no mercado, garantindo a liberdade e o controle para decidir com qual instituição, por quanto tempo e quais dados deseja compartilhar.
+  A premissa fundamental do Open Finance é que **os dados financeiros pertencem ao cliente**, e não aos bancos. Isso muda o eixo de poder no mercado, garantindo a liberdade e o controle para decidir com qual instituição, por quanto tempo e quais dados deseja compartilhar.
 
   Na prática, o sistema atua em duas frentes principais:
 
@@ -54,14 +54,14 @@ Nesta seção, registrei a evolução dos prompts utilizados dentro do NotebookL
 
   - **Iniciação de transações de pagamento:** Permite realizar pagamentos utilizando o aplicativo de uma instituição, mesmo quando o dinheiro está em outra.
 
-  #### Principais benefícios
+  #### Quais são os principais benefícios?
 
-  - **Ofertas mais competitivas:** Taxas de juros e limites de crédito mais personalizados.
-  - **Facilidade na gestão financeira:** Centralização das informações financeiras em um único aplicativo.
-  - **Mais competição e inovação:** Estímulo à criação de novos produtos e serviços.
-  - **Portabilidade simplificada:** Transferência digital de empréstimos e financiamentos para instituições com melhores condições.
+  - **Ofertas mais baratas e justas:** Como os bancos passam a conhecer melhor o seu perfil e o seu comportamento atual de pagamentos, eles conseguem oferecer taxas de juros menores e limites de crédito personalizados, não ficando dependentes apenas do "score" tradicional.
+  - **Facilidade na gestão financeira:** Você pode consolidar as informações de todas as suas contas em um único aplicativo, facilitando a organização das suas finanças e o controle de gastos.
+  - **Mais competição e inovação:** Ao quebrar o monopólio da informação que as grandes instituições detinham, o sistema estimula os bancos e as fintechs a competirem mais ativamente por você, criando novos produtos e serviços mais modernos.
+  - **Portabilidade simplificada:** Facilita a transferência de empréstimos e financiamentos (portabilidade de crédito) para a instituição que oferecer a melhor condição e taxa, tudo de forma 100% digital e com poucos cliques.
   
-    O compartilhamento é gratuito para o consumidor, depende sempre do seu consentimento e ocorre em um ambiente supervisionado pelo Banco Central, seguindo padrões de segurança e criptografia.
+    Todo esse ecossistema é gratuito para o consumidor e opera em um ambiente sob rigorosos padrões de segurança internacional e criptografia. O Banco Central supervisiona todo o processo, e o compartilhamento exige sempre o seu consentimento prévio, seguido de uma etapa de autenticação de identidade (como biometria ou senha), garantindo que nada ocorra sem a sua total autorização.
   
   </details>
 
