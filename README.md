@@ -39,7 +39,7 @@ Para garantir a acurácia técnica do NotebookLM, selecionei 8 fontes de alta au
 Nesta seção, registrei a evolução dos prompts utilizados dentro do NotebookLM para extrair análises estratégicas das fontes.
 
 ### 🔬 Teste 1: Exploração inicial
-* **Prompt V1:** *"O que é Open Finance?"*
+- **Prompt V1:** *"O que é Open Finance?"*
   <details>
   <summary><strong>Resposta</strong></summary>
 
