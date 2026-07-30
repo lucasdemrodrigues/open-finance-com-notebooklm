@@ -22,8 +22,14 @@ Estudantes, profissionais em início de carreira e pessoas interessadas em compr
 
 Para garantir a acurácia técnica do NotebookLM, selecionei 8 fontes de alta autoridade e diversidade metodológica (órgãos reguladores, entidades do consumidor, portais de notícias do setor e grandes instituições bancárias):
 
-### 📄 Fontes em Texto e Documentos Oficiais
-1. **[Banco Central do Brasil]** [Visão Geral e Normativa do Open Finance](https://www.bcb.gov.br/estabilidadefinanceira/openfinance)
+* **Fontes em Texto e Documentos Oficiais:**
+  1. **[Banco Central do Brasil]** [Visão Geral e Normativa do Open Finance](https://www.bcb.gov.br/estabilidadefinanceira/openfinance)
+  2. **[Banco Central do Brasil]** [Diretrizes de Segurança e Proteção de Dados](https://www.bcb.gov.br/estabilidadefinanceira/seguranca-open-finance)
+  3. **[Banco Central do Brasil]** [FAQ Oficial do Open Finance](https://bcb.gov.br/meubc/faqs/s/open-finance)
+  4. **[Santander Brasil]** [Open Finance na Prática Bancária](https://www.santander.com.br/banco/open-finance/)
+  5. **[IDEC]** [Tudo o que você precisa saber sobre Open Banking/Finance](https://idec.org.br/dicas-e-direitos)
+  6. **[Finsiders Brasil]** [Brasil lidera Open Finance no mundo e alcança marca histórica](https://finsidersbrasil.com.br/economia-open/brasil-lidera-open-finance-no-mundo-com-100-milhoes-de-clientes/)
+  7. **[Valor Investe]** [Open Finance para Empresas: Desafios e Burocracia no Crédito B2B](https://valorinveste.globo.com/produtos/servicos-financeiros/)
 
-### 🎬 Fontes em Vídeo e Transmissões Oficiais
-1. **[Ministério da Fazenda / Banco Central]** [Live BC: Como funciona o Open Finance e como utilizar o ecossistema](https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/acesso-a-informacao/noticias/2024/livebc-detalhou-como-funciona-o-open-finance-e-como-utilizar-o-ecossistema)
+* **Fontes em Vídeo e Transmissões Oficiais:**
+  1. **[Ministério da Fazenda / Banco Central]** [Live BC: Como funciona o Open Finance e como utilizar o ecossistema](https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/acesso-a-informacao/noticias/2024/livebc-detalhou-como-funciona-o-open-finance-e-como-utilizar-o-ecossistema)
