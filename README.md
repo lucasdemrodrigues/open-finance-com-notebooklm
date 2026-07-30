@@ -40,26 +40,29 @@ Nesta seção, registrei a evolução dos prompts utilizados dentro do NotebookL
 
 ### 🔬 Teste 1: Exploração inicial
 * **Prompt V1:** *"O que as fontes dizem sobre o Open Finance?"*
-* <details> <summary><strong>Resposta</strong></summary> O Open Finance (ou sistema financeiro aberto) é uma infraestrutura tecnológica criada pelo Banco Central do Brasil que permite o compartilhamento padronizado de dados e serviços financeiros entre diferentes instituições, de forma segura e ágil.
+* <details>
+  <summary><strong>Resposta</strong></summary>
 
-A premissa fundamental do Open Finance é que os dados financeiros pertencem ao cliente, e não aos bancos. Isso muda o eixo de poder no mercado, garantindo a liberdade e o controle para decidir com qual instituição, por quanto tempo e quais dados deseja compartilhar.
+  O Open Finance (ou sistema financeiro aberto) é uma infraestrutura tecnológica criada pelo Banco Central do Brasil que permite o compartilhamento padronizado de dados e serviços financeiros entre diferentes instituições, de forma segura e ágil.
 
-Na prática, o sistema atua em duas frentes principais:
+  A premissa fundamental do Open Finance é que os dados financeiros pertencem ao cliente, e não aos bancos. Isso muda o eixo de poder no mercado, garantindo a liberdade e o controle para decidir com qual instituição, por quanto tempo e quais dados deseja compartilhar.
 
-- **Compartilhamento de informações:** Permite que o histórico bancário — como saldos, extratos, faturas de cartão, histórico de crédito, investimentos e seguros — seja compartilhado entre instituições autorizadas.
+  Na prática, o sistema atua em duas frentes principais:
 
-- **Iniciação de transações de pagamento:** Permite realizar pagamentos utilizando o aplicativo de uma instituição, mesmo quando o dinheiro está em outra.
+  - **Compartilhamento de informações:** Permite que o histórico bancário — como saldos, extratos, faturas de cartão, histórico de crédito, investimentos e seguros — seja compartilhado entre instituições autorizadas.
 
-#### Principais benefícios
+  - **Iniciação de transações de pagamento:** Permite realizar pagamentos utilizando o aplicativo de uma instituição, mesmo quando o dinheiro está em outra.
 
-- **Ofertas mais competitivas:** Taxas de juros e limites de crédito mais personalizados.
-- **Facilidade na gestão financeira:** Centralização das informações financeiras em um único aplicativo.
-- **Mais competição e inovação:** Estímulo à criação de novos produtos e serviços.
-- **Portabilidade simplificada:** Transferência digital de empréstimos e financiamentos para instituições com melhores condições.
+  #### Principais benefícios
 
-O compartilhamento é gratuito para o consumidor, depende sempre do seu consentimento e ocorre em um ambiente supervisionado pelo Banco Central, seguindo padrões de segurança e criptografia.
-</details>
+  - **Ofertas mais competitivas:** Taxas de juros e limites de crédito mais personalizados.
+  - **Facilidade na gestão financeira:** Centralização das informações financeiras em um único aplicativo.
+  - **Mais competição e inovação:** Estímulo à criação de novos produtos e serviços.
+  - **Portabilidade simplificada:** Transferência digital de empréstimos e financiamentos para instituições com melhores condições.
 
+  O compartilhamento é gratuito para o consumidor, depende sempre do seu consentimento e ocorre em um ambiente supervisionado pelo Banco Central, seguindo padrões de segurança e criptografia.
+
+  </details>
 * **Prompt V2:** *"Com base estritamente nos documentos carregados, faça uma análise comparativa entre os benefícios pretendidos pelo Banco Central e os desafios práticos enfrentados pelos bancos no segmento PJs/Empresas."*
 * **Reflexão:** Mudar a abordagem de "o que é" para "análise comparativa com foco em dor de mercado" gerou insights muito mais ricos e aplicáveis a negócios.
 
