@@ -61,7 +61,7 @@ Nesta seção, registrei a evolução dos prompts utilizados dentro do NotebookL
   - **Mais competição e inovação:** Ao quebrar o monopólio da informação que as grandes instituições detinham, o sistema estimula os bancos e as fintechs a competirem mais ativamente por você, criando novos produtos e serviços mais modernos.
   - **Portabilidade simplificada:** Facilita a transferência de empréstimos e financiamentos (portabilidade de crédito) para a instituição que oferecer a melhor condição e taxa, tudo de forma 100% digital e com poucos cliques.
   
-  Todo esse ecossistema é gratuito para o consumidor e opera em um ambiente sob rigorosos padrões de segurança internacional e criptografia. O Banco Central supervisiona todo o processo, e o compartilhamento exige sempre o seu consentimento prévio, seguido de uma etapa de autenticação de identidade (como biometria ou senha), garantindo que nada ocorra sem a sua total autorização.
+   Todo esse ecossistema é gratuito para o consumidor e opera em um ambiente sob rigorosos padrões de segurança internacional e criptografia. O Banco Central supervisiona todo o processo, e o compartilhamento exige sempre o seu consentimento prévio, seguido de uma etapa de autenticação de identidade (como biometria ou senha), garantindo que nada ocorra sem a sua total autorização.
   
   </details>
 
