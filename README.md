@@ -34,7 +34,7 @@ Para garantir a acurácia técnica do NotebookLM, selecionei 8 fontes de alta au
 * **Fontes em vídeo:**
   1. **[Ministério da Fazenda / Banco Central]** [Live BC: Como funciona o Open Finance e como utilizar o ecossistema](https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/acesso-a-informacao/noticias/2024/livebc-detalhou-como-funciona-o-open-finance-e-como-utilizar-o-ecossistema)
 
-## 🧠 Engenharia de prompts:
+## 🧠 Engenharia de prompts
 
 Nesta seção, registrei a evolução dos prompts utilizados dentro do NotebookLM para extrair análises estratégicas das fontes.
 
