@@ -38,10 +38,32 @@ Para garantir a acurácia técnica do NotebookLM, selecionei 8 fontes de alta au
 
 Nesta seção, registrei a evolução dos prompts utilizados dentro do NotebookLM para extrair análises estratégicas das fontes.
 
-### 🔬 Teste 1: Síntese Regulatória vs. Prática de Mercado
-* **Prompt Inicial:** *"O que as fontes dizem sobre o Open Finance?"*
-* **Resultado:** Resposta muito vaga e excessivamente descritiva.
-* **Ajuste de Prompt (Iteração):** *"Com base estritamente nos documentos carregados, faça uma análise comparativa entre os benefícios pretendidos pelo Banco Central e os desafios práticos enfrentados pelos bancos no segmento PJs/Empresas."*
+### 🔬 Teste 1: Exploração inicial
+* **Prompt V1:** *"O que as fontes dizem sobre o Open Finance?"*
+* **Resposta:** O Open Finance (ou sistema financeiro aberto) é uma infraestrutura tecnológica criada pelo Banco Central do Brasil que permite o compartilhamento padronizado de dados e serviços financeiros entre diferentes instituições, de forma segura e ágil
+.
+A premissa fundamental do Open Finance é que os dados financeiros pertencem ao cliente, e não aos bancos
+. Isso muda o eixo de poder no mercado, garantindo a você a liberdade e o controle para decidir com qual instituição, por quanto tempo e quais dados deseja compartilhar
+.
+Na prática, o sistema atua em duas frentes principais:
+Compartilhamento de informações: Permite que você leve o seu histórico bancário — como saldos, extratos, faturas de cartão, histórico de crédito, investimentos e seguros — de uma instituição para outra
+. Assim, ao abrir conta em um novo banco, a instituição não precisa começar a te avaliar "do zero", pois já conhecerá o seu perfil
+.
+Iniciação de transações de pagamento: Permite que você faça movimentações financeiras a partir de plataformas de terceiros. Por exemplo, você pode usar o aplicativo do Banco A para pagar uma conta utilizando o saldo que você possui no Banco B, sem precisar ficar trocando de aplicativo
+.
+Quais são os principais benefícios?
+Ofertas mais baratas e justas: Como os bancos passam a conhecer melhor o seu perfil e o seu comportamento atual de pagamentos, eles conseguem oferecer taxas de juros menores e limites de crédito personalizados, não ficando dependentes apenas do "score" tradicional
+.
+Facilidade na gestão financeira: Você pode consolidar as informações de todas as suas contas em um único aplicativo, facilitando a organização das suas finanças e o controle de gastos
+.
+Mais competição e inovação: Ao quebrar o monopólio da informação que as grandes instituições detinham, o sistema estimula os bancos e as fintechs a competirem mais ativamente por você, criando novos produtos e serviços mais modernos
+.
+Portabilidade simplificada: Facilita a transferência de empréstimos e financiamentos (portabilidade de crédito) para a instituição que oferecer a melhor condição e taxa, tudo de forma 100% digital e com poucos cliques
+.
+Todo esse ecossistema é gratuito para o consumidor
+ e opera em um ambiente sob rigorosos padrões de segurança internacional e criptografia
+. O Banco Central supervisiona todo o processo, e o compartilhamento exige sempre o seu consentimento prévio, seguido de uma etapa de autenticação de identidade (como biometria ou senha), garantindo que nada ocorra sem a sua total autorização
+* **Prompt V2:** *"Com base estritamente nos documentos carregados, faça uma análise comparativa entre os benefícios pretendidos pelo Banco Central e os desafios práticos enfrentados pelos bancos no segmento PJs/Empresas."*
 * **Reflexão:** Mudar a abordagem de "o que é" para "análise comparativa com foco em dor de mercado" gerou insights muito mais ricos e aplicáveis a negócios.
 
 ### 🔬 Teste 2: Extração para Segurança e Consentimento (LGPD)
