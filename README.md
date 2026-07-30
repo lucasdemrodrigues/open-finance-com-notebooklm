@@ -59,7 +59,7 @@ Nesta seção, registrei a evolução dos prompts utilizados dentro do NotebookL
   - **Facilidade na gestão financeira:** Centralização das informações financeiras em um único aplicativo.
   - **Mais competição e inovação:** Estímulo à criação de novos produtos e serviços.
   - **Portabilidade simplificada:** Transferência digital de empréstimos e financiamentos para instituições com melhores condições.
-
+  
   O compartilhamento é gratuito para o consumidor, depende sempre do seu consentimento e ocorre em um ambiente supervisionado pelo Banco Central, seguindo padrões de segurança e criptografia.
   
   </details>
