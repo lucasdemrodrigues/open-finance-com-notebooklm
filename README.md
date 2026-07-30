@@ -40,21 +40,31 @@ Nesta seção, registrei a evolução dos prompts utilizados dentro do NotebookL
 
 ### 🔬 Teste 1: Exploração inicial
 * **Prompt V1:** *"O que as fontes dizem sobre o Open Finance?"*
-* **Resposta:** <details> <summary>Visualizar resposta completa</summary>
-O Open Finance (ou sistema financeiro aberto) é uma infraestrutura tecnológica criada pelo Banco Central do Brasil que permite o compartilhamento padronizado de dados e serviços financeiros entre diferentes instituições, de forma segura e ágil.
-A premissa fundamental do Open Finance é que os dados financeiros pertencem ao cliente, e não aos bancos. Isso muda o eixo de poder no mercado, garantindo a você a liberdade e o controle para decidir com qual instituição, por quanto tempo e quais dados deseja compartilhar.
-Na prática, o sistema atua em duas frentes principais:
-* Compartilhamento de informações: Permite que você leve o seu histórico bancário — como saldos, extratos, faturas de cartão, histórico de crédito, investimentos e seguros — de uma instituição para outra. Assim, ao abrir conta em um novo banco, a instituição não precisa começar a te avaliar "do zero", pois já conhecerá o seu perfil.
-* Iniciação de transações de pagamento: Permite que você faça movimentações financeiras a partir de plataformas de terceiros. Por exemplo, você pode usar o aplicativo do Banco A para pagar uma conta utilizando o saldo que você possui no Banco B, sem precisar ficar trocando de aplicativo.
-Quais são os principais benefícios?
-* Ofertas mais baratas e justas: Como os bancos passam a conhecer melhor o seu perfil e o seu comportamento atual de pagamentos, eles conseguem oferecer taxas de juros menores e limites de crédito personalizados, não ficando dependentes apenas do "score" tradicional.
-* Facilidade na gestão financeira: Você pode consolidar as informações de todas as suas contas em um único aplicativo, facilitando a organização das suas finanças e o controle de gastos.
-* Mais competição e inovação: Ao quebrar o monopólio da informação que as grandes instituições detinham, o sistema estimula os bancos e as fintechs a competirem mais ativamente por você, criando novos produtos e serviços mais modernos.
-* Portabilidade simplificada: Facilita a transferência de empréstimos e financiamentos (portabilidade de crédito) para a instituição que oferecer a melhor condição e taxa, tudo de forma 100% digital e com poucos cliques.
-Todo esse ecossistema é gratuito para o consumidor e opera em um ambiente sob rigorosos padrões de segurança internacional e criptografia
-. O Banco Central supervisiona todo o processo, e o compartilhamento exige sempre o seu consentimento prévio, seguido de uma etapa de autenticação de identidade (como biometria ou senha), garantindo que nada ocorra sem a sua total autorização.
-</details>
+### Resposta
 
+<details>
+<summary><strong>Visualizar resposta completa</strong></summary>
+
+O Open Finance (ou sistema financeiro aberto) é uma infraestrutura tecnológica criada pelo Banco Central do Brasil que permite o compartilhamento padronizado de dados e serviços financeiros entre diferentes instituições, de forma segura e ágil.
+
+A premissa fundamental do Open Finance é que os dados financeiros pertencem ao cliente, e não aos bancos. Isso muda o eixo de poder no mercado, garantindo a liberdade e o controle para decidir com qual instituição, por quanto tempo e quais dados deseja compartilhar.
+
+Na prática, o sistema atua em duas frentes principais:
+
+- **Compartilhamento de informações:** Permite que o histórico bancário — como saldos, extratos, faturas de cartão, histórico de crédito, investimentos e seguros — seja compartilhado entre instituições autorizadas.
+
+- **Iniciação de transações de pagamento:** Permite realizar pagamentos utilizando o aplicativo de uma instituição, mesmo quando o dinheiro está em outra.
+
+#### Principais benefícios
+
+- **Ofertas mais competitivas:** Taxas de juros e limites de crédito mais personalizados.
+- **Facilidade na gestão financeira:** Centralização das informações financeiras em um único aplicativo.
+- **Mais competição e inovação:** Estímulo à criação de novos produtos e serviços.
+- **Portabilidade simplificada:** Transferência digital de empréstimos e financiamentos para instituições com melhores condições.
+
+O compartilhamento é gratuito para o consumidor, depende sempre do seu consentimento e ocorre em um ambiente supervisionado pelo Banco Central, seguindo padrões de segurança e criptografia.
+
+</details>
 * **Prompt V2:** *"Com base estritamente nos documentos carregados, faça uma análise comparativa entre os benefícios pretendidos pelo Banco Central e os desafios práticos enfrentados pelos bancos no segmento PJs/Empresas."*
 * **Reflexão:** Mudar a abordagem de "o que é" para "análise comparativa com foco em dor de mercado" gerou insights muito mais ricos e aplicáveis a negócios.
 
