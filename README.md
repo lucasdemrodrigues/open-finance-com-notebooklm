@@ -41,7 +41,6 @@ Nesta seção, registrei a evolução dos prompts utilizados dentro do NotebookL
 ### 🔬 Teste 1: Exploração inicial
 * **Prompt V1:** *"O que as fontes dizem sobre o Open Finance?"*
 * **Resposta:** <details> <summary>Visualizar resposta completa</summary>
-
 O Open Finance (ou sistema financeiro aberto) é uma infraestrutura tecnológica criada pelo Banco Central do Brasil que permite o compartilhamento padronizado de dados e serviços financeiros entre diferentes instituições, de forma segura e ágil
 .
 A premissa fundamental do Open Finance é que os dados financeiros pertencem ao cliente, e não aos bancos
