@@ -40,7 +40,7 @@ Nesta seção, registrei a evolução dos prompts utilizados dentro do NotebookL
 
 ### 🔬 Teste 1: Exploração inicial
 * **Prompt V1:** *"O que as fontes dizem sobre o Open Finance?"*
-### Resposta
+* **Resposta:**
 
 <details>
 <summary><strong>Visualizar resposta completa</strong></summary>
