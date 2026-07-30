@@ -59,7 +59,6 @@ Na prática, o sistema atua em duas frentes principais:
 - **Portabilidade simplificada:** Transferência digital de empréstimos e financiamentos para instituições com melhores condições.
 
 O compartilhamento é gratuito para o consumidor, depende sempre do seu consentimento e ocorre em um ambiente supervisionado pelo Banco Central, seguindo padrões de segurança e criptografia.
-
 </details>
 
 * **Prompt V2:** *"Com base estritamente nos documentos carregados, faça uma análise comparativa entre os benefícios pretendidos pelo Banco Central e os desafios práticos enfrentados pelos bancos no segmento PJs/Empresas."*
