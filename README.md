@@ -44,7 +44,7 @@ Nesta seção, registrei a evolução dos prompts utilizados dentro do NotebookL
   <details>
   <summary><strong>Resposta</strong></summary>
 
-  O Open Finance (ou sistema financeiro aberto) é uma infraestrutura tecnológica criada pelo Banco Central do Brasil que permite o compartilhamento padronizado de dados e serviços financeiros entre diferentes instituições, de forma segura e ágil.
+  O **Open Finance** (ou sistema financeiro aberto) é uma infraestrutura tecnológica criada pelo Banco Central do Brasil que permite o compartilhamento padronizado de dados e serviços financeiros entre diferentes instituições, de forma segura e ágil.
 
   A premissa fundamental do Open Finance é que os dados financeiros pertencem ao cliente, e não aos bancos. Isso muda o eixo de poder no mercado, garantindo a liberdade e o controle para decidir com qual instituição, por quanto tempo e quais dados deseja compartilhar.
 
