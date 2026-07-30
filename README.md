@@ -40,7 +40,9 @@ Nesta seção, registrei a evolução dos prompts utilizados dentro do NotebookL
 
 ### 🔬 Teste 1: Exploração inicial
 * **Prompt V1:** *"O que as fontes dizem sobre o Open Finance?"*
-* **Resposta:** O Open Finance (ou sistema financeiro aberto) é uma infraestrutura tecnológica criada pelo Banco Central do Brasil que permite o compartilhamento padronizado de dados e serviços financeiros entre diferentes instituições, de forma segura e ágil
+* **Resposta:** <details> <summary>Visualizar resposta completa</summary>
+
+O Open Finance (ou sistema financeiro aberto) é uma infraestrutura tecnológica criada pelo Banco Central do Brasil que permite o compartilhamento padronizado de dados e serviços financeiros entre diferentes instituições, de forma segura e ágil
 .
 A premissa fundamental do Open Finance é que os dados financeiros pertencem ao cliente, e não aos bancos
 . Isso muda o eixo de poder no mercado, garantindo a você a liberdade e o controle para decidir com qual instituição, por quanto tempo e quais dados deseja compartilhar
@@ -63,6 +65,8 @@ Portabilidade simplificada: Facilita a transferência de empréstimos e financia
 Todo esse ecossistema é gratuito para o consumidor
  e opera em um ambiente sob rigorosos padrões de segurança internacional e criptografia
 . O Banco Central supervisiona todo o processo, e o compartilhamento exige sempre o seu consentimento prévio, seguido de uma etapa de autenticação de identidade (como biometria ou senha), garantindo que nada ocorra sem a sua total autorização
+
+</details>
 * **Prompt V2:** *"Com base estritamente nos documentos carregados, faça uma análise comparativa entre os benefícios pretendidos pelo Banco Central e os desafios práticos enfrentados pelos bancos no segmento PJs/Empresas."*
 * **Reflexão:** Mudar a abordagem de "o que é" para "análise comparativa com foco em dor de mercado" gerou insights muito mais ricos e aplicáveis a negócios.
 
