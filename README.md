@@ -41,17 +41,14 @@ Nesta seção, registrei a evolução dos prompts utilizados dentro do NotebookL
 ### 🔬 Teste 1: Exploração inicial
 * **Prompt V1:** *"O que as fontes dizem sobre o Open Finance?"*
 * **Resposta:** <details> <summary>Visualizar resposta completa</summary>
-O Open Finance (ou sistema financeiro aberto) é uma infraestrutura tecnológica criada pelo Banco Central do Brasil que permite o compartilhamento padronizado de dados e serviços financeiros entre diferentes instituições, de forma segura e ágil
-.
-A premissa fundamental do Open Finance é que os dados financeiros pertencem ao cliente, e não aos bancos
-. Isso muda o eixo de poder no mercado, garantindo a você a liberdade e o controle para decidir com qual instituição, por quanto tempo e quais dados deseja compartilhar
-.
+O Open Finance (ou sistema financeiro aberto) é uma infraestrutura tecnológica criada pelo Banco Central do Brasil que permite o compartilhamento padronizado de dados e serviços financeiros entre diferentes instituições, de forma segura e ágil.
+
+A premissa fundamental do Open Finance é que os dados financeiros pertencem ao cliente, e não aos bancos. Isso muda o eixo de poder no mercado, garantindo a você a liberdade e o controle para decidir com qual instituição, por quanto tempo e quais dados deseja compartilhar.
+
 Na prática, o sistema atua em duas frentes principais:
-Compartilhamento de informações: Permite que você leve o seu histórico bancário — como saldos, extratos, faturas de cartão, histórico de crédito, investimentos e seguros — de uma instituição para outra
-. Assim, ao abrir conta em um novo banco, a instituição não precisa começar a te avaliar "do zero", pois já conhecerá o seu perfil
-.
-Iniciação de transações de pagamento: Permite que você faça movimentações financeiras a partir de plataformas de terceiros. Por exemplo, você pode usar o aplicativo do Banco A para pagar uma conta utilizando o saldo que você possui no Banco B, sem precisar ficar trocando de aplicativo
-.
+* Compartilhamento de informações: Permite que você leve o seu histórico bancário — como saldos, extratos, faturas de cartão, histórico de crédito, investimentos e seguros — de uma instituição para outra. Assim, ao abrir conta em um novo banco, a instituição não precisa começar a te avaliar "do zero", pois já conhecerá o seu perfil.
+* Iniciação de transações de pagamento: Permite que você faça movimentações financeiras a partir de plataformas de terceiros. Por exemplo, você pode usar o aplicativo do Banco A para pagar uma conta utilizando o saldo que você possui no Banco B, sem precisar ficar trocando de aplicativo.
+
 Quais são os principais benefícios?
 Ofertas mais baratas e justas: Como os bancos passam a conhecer melhor o seu perfil e o seu comportamento atual de pagamentos, eles conseguem oferecer taxas de juros menores e limites de crédito personalizados, não ficando dependentes apenas do "score" tradicional
 .
