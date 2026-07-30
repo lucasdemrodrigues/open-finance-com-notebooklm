@@ -22,5 +22,8 @@ Estudantes, profissionais em início de carreira e pessoas interessadas em compr
 
 Para garantir a acurácia técnica do NotebookLM, selecionei 8 fontes de alta autoridade e diversidade metodológica (órgãos reguladores, entidades do consumidor, portais de notícias do setor e grandes instituições bancárias):
 
+### 📄 Fontes em Texto e Documentos Oficiais
 1. **[Banco Central do Brasil]** [Visão Geral e Normativa do Open Finance](https://www.bcb.gov.br/estabilidadefinanceira/openfinance)
-2. **[Banco Central do Brasil]** [Diretrizes de Segurança e Proteção de Dados](https://www.bcb.gov.br/estabilidadefinanceira/seguranca-open-finance)
+
+### 🎬 Fontes em Vídeo e Transmissões Oficiais
+1. **[Ministério da Fazenda / Banco Central]** [Live BC: Como funciona o Open Finance e como utilizar o ecossistema](https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/acesso-a-informacao/noticias/2024/livebc-detalhou-como-funciona-o-open-finance-e-como-utilizar-o-ecossistema)
