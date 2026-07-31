@@ -26,7 +26,7 @@ O tema escolhido foi Open Finance, uma iniciativa que vem transformando o sistem
 
 Compreender como o Open Finance está transformando o sistema financeiro brasileiro, explorando seus benefícios, desafios, regulamentação e impactos para consumidores, instituições financeiras e fintechs.
 
-## 📚 Curadoria de fontes (Colocar motivos da escolha)
+## 📚 Curadoria de fontes
 
 Para garantir a acurácia técnica do NotebookLM, selecionei 8 fontes de alta autoridade e diversidade metodológica (órgãos reguladores, entidades do consumidor, portais de notícias do setor e grandes instituições bancárias):
 
