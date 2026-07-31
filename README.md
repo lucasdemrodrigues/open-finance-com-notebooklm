@@ -30,7 +30,7 @@ Compreender como o Open Finance está transformando o sistema financeiro brasile
 
 Para garantir a acurácia técnica do NotebookLM, selecionei 8 fontes de alta autoridade e diversidade metodológica (órgãos reguladores, entidades do consumidor, portais de notícias do setor e grandes instituições bancárias):
 
-* **Fontes em texto:**
+* **Fontes em texto:** (Colocar motivos da escolha)
   1. **[Banco Central do Brasil]** [Visão Geral e Normativa do Open Finance](https://www.bcb.gov.br/estabilidadefinanceira/openfinance)
   2. **[Banco Central do Brasil]** [Diretrizes de Segurança e Proteção de Dados](https://www.bcb.gov.br/estabilidadefinanceira/seguranca-open-finance)
   3. **[Banco Central do Brasil]** [FAQ Oficial do Open Finance](https://bcb.gov.br/meubc/faqs/s/open-finance)
@@ -205,3 +205,15 @@ Estes prompts podem ser copiados e colados no NotebookLM para gerar revisões r�
 
 3. **Análise de Tendências:** 
    > *"Quais são as principais tendências citadas nas fontes sobre a convergência do Open Finance com o Pix e a Inteligência Artificial?"*
+
+## 💡 Aprendizados
+
+Durante este projeto foi possível desenvolver:
+
+- Curadoria de fontes confiáveis;
+- Organização do conhecimento;
+- Engenharia de prompts;
+- Pensamento crítico sobre respostas de IA;
+- Documentação técnica em Markdown;
+- Uso do NotebookLM como ferramenta de aprendizagem.
+- Além dos conhecimentos sobre Open Finance, este projeto também permitiu aprofundar a organização de documentação em Markdown e experimentar recursos básicos de HTML para melhorar a apresentação visual do README.
