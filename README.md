@@ -28,7 +28,7 @@ Compreender como o Open Finance está transformando o sistema financeiro brasile
 
 ## 📚 Curadoria de fontes
 
-Para garantir a acurácia técnica do NotebookLM, selecionei 8 fontes de alta autoridade e diversidade metodológica (órgãos reguladores, entidades do consumidor, portais de notícias do setor e grandes instituições bancárias):
+Para garantir a acurácia técnica do NotebookLM, selecionei 8 fontes de alta autoridade e diversidade metodológica, contemplando conteúdos em texto e vídeo de órgãos reguladores, instituições financeiras, especialistas do setor, entidades do consumidor e portais de notícias especializados:
 
 * **Fontes em texto:** 
   1. **[Banco Central do Brasil]** [Visão Geral e Normativa do Open Finance](https://www.bcb.gov.br/estabilidadefinanceira/openfinance)
