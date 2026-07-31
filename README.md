@@ -176,12 +176,12 @@ Evolução direta do *Open Banking*, ele ampliou seu escopo para incluir — al�
 
 ---
 
-#### 2. Como Funciona a Operação e Implementação?
-O sistema opera de forma descentralizada por meio de APIs (Interfaces de Programação de Aplicativos) padronizadas e seguras, sem a existência de um banco de dados centralizado. Para que qualquer transferência ocorra, é exigido o consentimento prévio e explícito do cliente através de uma jornada em 3 etapas: **Consentimento** $\rightarrow$ **Autenticação** $\rightarrow$ **Confirmação**.
+#### 2. Como funciona a operação e implementação?
+O sistema opera de forma descentralizada por meio de APIs (Interfaces de Programação de Aplicativos) padronizadas e seguras, sem a existência de um banco de dados centralizado. Para que qualquer transferência ocorra, é exigido o consentimento prévio e explícito do cliente através de uma jornada em 3 etapas: **consentimento** $\rightarrow$ **autenticação** $\rightarrow$ **confirmação**.
 
 A implementação do ecossistema no Brasil foi estruturada em 4 fases:
 
-| Fase | Escopo de Compartilhamento |
+| Fase | Escopo de compartilhamento |
 | :---: | :--- |
 | **Fase 1** | Dados públicos das instituições (canais de atendimento e serviços oferecidos). |
 | **Fase 2** | Dados cadastrais e histórico transacional dos clientes (contas, cartões e crédito). |
@@ -190,7 +190,7 @@ A implementação do ecossistema no Brasil foi estruturada em 4 fases:
 
 ---
 
-#### 3. Participantes do Ecossistema
+#### 3. Participantes do ecossistema:
 O ecossistema é regulado pelo Banco Central e gerido por uma Estrutura de Governança Definitiva. As instituições atuam como Transmissoras de Dados, Receptoras de Dados, Provedoras de Conta ou Iniciadoras de Transação de Pagamento (ITPs):
 
 * **Participantes Obrigatórios:** Grandes bancos (segmentos S1 e S2) e conglomerados com mais de 5 milhões de clientes ativos.
@@ -198,13 +198,13 @@ O ecossistema é regulado pelo Banco Central e gerido por uma Estrutura de Gover
 
 ---
 
-#### 4. Benefícios Mapeados
+#### 4. Benefícios mapeados:
 * **Para Consumidores e Empresas (PJ):** A análise do fluxo de caixa real permite uma concessão de crédito mais justa do que o *score* tradicional, reduzindo taxas de juros. Facilita a gestão financeira por meio da consolidação de contas em agregadores e viabiliza a portabilidade de crédito 100% digital.
 * **Para o Mercado Financeiro:** A quebra do monopólio da informação estimula a livre concorrência, reduz assimetrias de mercado, fomenta a criação de novos modelos de negócios (fintechs) e impulsiona a inclusão financeira.
 
 ---
 
-#### 5. Principais Desafios e Gargalos
+#### 5. Principais desafios e gargalos:
 * **Fricção em Contas PJ:** O compartilhamento de dados patina em empresas com múltiplos sócios devido à burocracia das alçadas duplas de aprovação.
 * **Complexidade Tecnológica:** A integração de sistemas legados a múltiplas APIs regulatórias exige altos investimentos contínuos em estabilidade e performance.
 * **Engajamento e Confiança:** Resistência da base de clientes quanto ao compartilhamento contínuo, exigindo educação financeira e comunicação clara sobre os benefícios reais.
@@ -212,7 +212,7 @@ O ecossistema é regulado pelo Banco Central e gerido por uma Estrutura de Gover
 
 ---
 
-#### 6. Perspectivas Futuras
+#### 6. Perspectivas futuras:
 O Open Finance caminha para uma convergência estrutural com o Pix (Pix Automático e por aproximação) e com o Drex (Real Digital). Juntas, essas infraestruturas viabilizarão finanças autônomas, *pagamentos agênticos* e *smart contracts* (contratos inteligentes).
 
 No médio e longo prazo, prevê-se a integração com o *Open Capital Markets* (junto à CVM), a evolução da portabilidade de salário e o uso intensivo de IA Generativa aplicada aos dados abertos para proporcionar hiperpersonalização de serviços financeiros em tempo real.
