@@ -1,6 +1,6 @@
 <img width="4400" height="777" alt="Imagem1" src="https://github.com/user-attachments/assets/e5dbfc0b-9fd2-4091-ac52-5777ca0c3cc1" />
 
-# 🏦 Miniguia de estudos: Open Finance no Brasil com NotebookLM
+# Miniguia de estudos: Open Finance no Brasil com NotebookLM
 
 ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
 ![Bootcamp](https://img.shields.io/badge/Bootcamp-Santander%20%2B%20DIO-red)
