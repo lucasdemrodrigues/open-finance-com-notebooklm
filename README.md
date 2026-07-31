@@ -163,11 +163,11 @@ No dia a dia, o Open Finance converte-se em melhorias palpáveis:
 * **Desafio Encontrado (Cicatriz):** A IA tendia a generalizar a LGPD sem citar mecanismos práticos.
 * **Solução:** Adicionei a instrução: *"Destaque obrigatoriamente a revogabilidade do consentimento e a responsabilidade das instituições envolvidas."*
   
-<h2>📘 Miniguia de estudo</h2>
+# 📘 Miniguia de Estudo
 
-### 📌 Resumos Estruturados do Assunto
+## 📌 Resumos Estruturados do Assunto
 
-#### 1. A Regulação e o Ecossistema do BACEN
+### 1. A Regulação e o Ecossistema do BACEN
 O Open Finance brasileiro é uma iniciativa regulada pelo Banco Central do Brasil que obriga o compartilhamento padronizado de dados e serviços financeiros entre instituições autorizadas, mediante o consentimento explícito e revogável do consumidor.
 
 ### 2. Benefícios para Consumidores e Instituições
