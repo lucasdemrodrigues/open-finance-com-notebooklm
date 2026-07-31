@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://i.imgur.com/vH79wR1.png" width="100%" height="180" style="object-fit: cover;" alt="Capa Guia Open Finance com NotebookLM" />
-</p>
+<img width="1024" height="181" alt="watermarked_img_2152744428369261968" src="https://github.com/user-attachments/assets/19f53532-6dcb-4bb3-9551-1e951303d16c" />
+
 
 # 🏦 Miniguia de estudos: Open Finance no Brasil com NotebookLM
 
