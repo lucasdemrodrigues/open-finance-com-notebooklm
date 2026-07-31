@@ -67,10 +67,11 @@ Nesta seção, registrei a evolução dos prompts utilizados dentro do NotebookL
 
 * **Análise:** A resposta apresentou uma visão ampla sobre o Open Finance, abordando seus principais conceitos, benefícios e aspectos relacionados à segurança. Entretanto, por se tratar de um prompt bastante abrangente, o conteúdo teve um caráter predominantemente introdutório. Para aprofundar o estudo e obter uma compreensão mais estruturada do tema, o próximo prompt buscará explorar seus objetivos e funcionamento no contexto do sistema financeiro brasileiro.
 * **Prompt V2:** *"Explique o que é o Open Finance, seus principais objetivos e como ele funciona no sistema financeiro brasileiro."*
-  
-  <details>
-    <summary><strong>Resposta</strong></summary>
-O Open Finance (anteriormente conhecido como Open Banking) é uma infraestrutura tecnológica e regulatória que permite o compartilhamento padronizado de dados, produtos e serviços financeiros entre instituições autorizadas pelo Banco Central do Brasil (BCB), por meio de plataformas integradas via APIs (Interfaces de Programação de Aplicativos).
+
+<details>
+<summary><strong>Resposta</strong></summary>
+
+The Open Finance (anteriormente conhecido como Open Banking) é uma infraestrutura tecnológica e regulatória que permite o compartilhamento padronizado de dados, produtos e serviços financeiros entre instituições autorizadas pelo Banco Central do Brasil (BCB), por meio de plataformas integradas via APIs (Interfaces de Programação de Aplicativos).
 
 A transição do nome para Open Finance ocorreu para refletir a ampliação do seu escopo, que passou a abranger não apenas serviços bancários tradicionais, mas também o compartilhamento de dados de investimentos, seguros, previdência complementar e operações de câmbio.
 
@@ -80,27 +81,20 @@ A sua premissa central é que os dados financeiros pertencem ao cliente, e não 
 
 O desenho regulatório do Open Finance pelo Banco Central foi pautado em quatro pilares fundamentais:
 
-- Promover a concorrência: Ao quebrar o monopólio histórico que as grandes instituições tinham sobre as informações de seus clientes, o sistema nivela as condições de disputa no mercado, permitindo que novos entrantes (como fintechs) concorram de forma mais justa.
-
-- Incentivar a inovação: Facilita a criação de novos modelos de negócios e soluções financeiras personalizadas baseadas no comportamento real do usuário.
-
-- Aumentar a eficiência: Otimiza o funcionamento do Sistema Financeiro Nacional (SFN) e do Sistema de Pagamentos Brasileiro (SPB), tornando os processos mais ágeis e menos custosos.
-
-- Promover a inclusão e cidadania financeira: Facilita o acesso a produtos financeiros mais adequados e com taxas menores, além de ajudar a bancarizar e oferecer crédito a parcelas da população e pequenos empreendedores que antes eram penalizados pela falta de um histórico formal.
+- **Promover a concorrência:** Ao quebrar o monopólio histórico que as grandes instituições tinham sobre as informações de seus clientes, o sistema nivela as condições de disputa no mercado, permitindo que novos entrantes (como fintechs) concorram de forma mais justa.
+- **Incentivar a inovação:** Facilita a criação de novos modelos de negócios e soluções financeiras personalizadas baseadas no comportamento real do usuário.
+- **Aumentar a eficiência:** Otimiza o funcionamento do Sistema Financeiro Nacional (SFN) e do Sistema de Pagamentos Brasileiro (SPB), tornando os processos mais ágeis e menos custosos.
+- **Promover a inclusão e cidadania financeira:** Facilita o acesso a produtos financeiros mais adequados e com taxas menores, além de ajudar a bancarizar e oferecer crédito a parcelas da população e pequenos empreendedores que antes eram penalizados pela falta de um histórico formal.
 
 #### Como funciona no Sistema Financeiro Brasileiro
 
 **1. Implementação em Fases**
 
 O ecossistema foi estruturado de forma gradual em quatro fases:
-
-- Fase 1: Compartilhamento de dados abertos das próprias instituições, como canais de atendimento, produtos oferecidos e suas respectivas taxas.
-
-- Fase 2: Compartilhamento de dados cadastrais e do histórico transacional dos clientes (contas, cartões e crédito).
-
-- Fase 3: Iniciação de transações de pagamento (permitindo realizar um Pix fora do ambiente do banco, por exemplo) e encaminhamento de propostas de crédito.
-
-- Fase 4: Compartilhamento de dados de produtos complexos (investimentos, previdência, seguros e câmbio).
+- **Fase 1:** Compartilhamento de dados abertos das próprias instituições, como canais de atendimento, produtos oferecidos e suas respectivas taxas.
+- **Fase 2:** Compartilhamento de dados cadastrais e do histórico transacional dos clientes (contas, cartões e crédito).
+- **Fase 3:** Iniciação de transações de pagamento (permitindo realizar um Pix fora do ambiente do banco, por exemplo) e encaminhamento de propostas de crédito.
+- **Fase 4:** Compartilhamento de dados de produtos complexos (investimentos, previdência, seguros e câmbio).
 
 **2. A Jornada de Compartilhamento**
 
@@ -118,13 +112,11 @@ A operação do Open Finance não centraliza dados em um único banco de dados d
 
 No dia a dia, o Open Finance converte-se em melhorias palpáveis:
 
-- Análise de crédito mais justa: Os bancos passam a analisar o fluxo de caixa real, a renda recorrente e o comportamento atual do cliente, superando a visão restrita do score tradicional de birôs de crédito (que focam muito no histórico de negativações). Com isso, clientes podem conseguir redução nas taxas de juros, aumento de limites e até aprovação de crédito para autônomos.
+- **Análise de crédito mais justa:** Os bancos passam a analisar o fluxo de caixa real, a renda recorrente e o comportamento atual do cliente, superando a visão restrita do score tradicional de birôs de crédito (que focam muito no histórico de negativações). Com isso, clientes podem conseguir redução nas taxas de juros, aumento de limites e até aprovação de crédito para autônomos.
+- **Portabilidade de crédito 100% digital:** O sistema elimina a burocracia documental para que o consumidor transfira dívidas e empréstimos para o banco que oferecer a taxa mais barata.
+- **Gestão Consolidada:** É possível usar apenas o aplicativo do seu banco favorito para enxergar saldos, investimentos e limites de todas as outras contas que você possui.
+- **Pagamentos Inovadores:** Em conjunto com o Pix, o ecossistema permite "pagamentos agênticos" e transações iniciadas por aplicativos de terceiros ou lojas online, reduzindo etapas na hora de fechar uma compra (Jornada Sem Redirecionamento) e facilitando serviços como o Pix Automático.
 
-- Portabilidade de crédito 100% digital: O sistema elimina a burocracia documental para que o consumidor transfira dívidas e empréstimos para o banco que oferecer a taxa mais barata.
-
-- Gestão Consolidada: É possível usar apenas o aplicativo do seu banco favorito para enxergar saldos, investimentos e limites de todas as outras contas que você possui.
-
-- Pagamentos Inovadores: Em conjunto com o Pix, o ecossistema permite "pagamentos agênticos" e transações iniciadas por aplicativos de terceiros ou lojas online, reduzindo etapas na hora de fechar uma compra (Jornada Sem Redirecionamento) e facilitando serviços como o Pix Automático.
 </details>
   
 * **Reflexão:** Mudar a abordagem de "o que é" para "análise comparativa com foco em dor de mercado" gerou insights muito mais ricos e aplicáveis a negócios.
