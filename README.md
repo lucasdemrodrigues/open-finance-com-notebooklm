@@ -216,43 +216,44 @@ Os *prompts* abaixo foram desenvolvidos a partir da experiência adquirida neste
 
 ---
 
-### 1. Compreensão inicial
+### 1. 🌱 Compreensão inicial
 > *"Explique **[tema]** de forma clara e objetiva. Apresente sua definição, objetivos, principais características e por que ele é importante no contexto estudado."*
 
 ---
 
-### 2. Resumo estruturado
+### 2. 📋 Resumo estruturado
 > *"Crie um resumo estruturado sobre **[tema]**, organizando a resposta em perguntas e respostas. Utilize apenas as informações presentes nas fontes adicionadas ao notebook."*
 
 ---
 
-### 3. Comparação entre fontes
+### 3. ⚖️ Comparação entre fontes
 > *"Compare como cada uma das fontes aborda **[tema]**. Identifique pontos em comum, diferenças de abordagem, possíveis divergências e indique quais fontes sustentam cada conclusão."*
 
 ---
 
-### 4. Tabela comparativa
+### 4. 📊 Tabela comparativa
 > *"Analise **[tema]** sob diferentes perspectivas e organize a resposta em uma tabela comparativa, destacando vantagens, desafios e impactos para cada grupo envolvido."*
 
 ---
 
-### 5. Aprofundamento
+### 5. 🔍 Aprofundamento
 > *"Quais são os principais desafios, limitações e oportunidades relacionados a **[tema]**? Baseie a resposta apenas nas fontes disponíveis e cite quais documentos sustentam cada argumento."*
 
 ---
 
-### 6. Aplicações práticas
+### 6. 💼 Aplicações práticas
 > *"Apresente exemplos práticos de aplicação de **[tema]**, explicando seus benefícios, riscos e possíveis impactos no dia a dia."*
 
 ---
 
-### 7. Questões para revisão
+### 7. ❓ Questões para revisão
 > *"Elabore 10 questões sobre **[tema]**, alternando entre perguntas conceituais e de aplicação prática. Ao final, apresente o gabarito comentado e indique as fontes utilizadas."*
 
 ---
 
-### 8. Explicação para diferentes públicos
-> *"Explique **[tema]** para três públicos diferentes:
+### 8. 👥 Explicação para diferentes públicos
+> *"Explique **[tema]** para quatro públicos diferentes:
+> - Uma criança de 12 anos;
 > - Uma pessoa sem conhecimento prévio;
 > - Um estudante universitário;
 > - Um profissional da área.
@@ -261,12 +262,12 @@ Os *prompts* abaixo foram desenvolvidos a partir da experiência adquirida neste
 
 ---
 
-### 9. Tendências futuras
+### 9. 📈 Tendências futuras
 > *"Com base nas fontes disponíveis, identifique as principais tendências relacionadas a **[tema]**, explicando seus possíveis impactos no curto, médio e longo prazo."*
 
 ---
 
-### 10. Glossário de conceitos
+### 10. 🏷️ Glossário de conceitos
 > *"Crie um glossário com os principais conceitos relacionados a **[tema]**, apresentando uma definição simples, clara e objetiva para cada termo."*
 
 ## 💡 Aprendizados
