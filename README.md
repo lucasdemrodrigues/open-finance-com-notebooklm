@@ -53,124 +53,91 @@ Para garantir a acurácia técnica do NotebookLM, selecionei 11 fontes de alta a
 
 ## 🧠 Engenharia de prompts
 
-Nesta seção, registrei a evolução dos prompts utilizados dentro do NotebookLM para extrair análises estratégicas das fontes.
+## Engenharia de Prompts e Evolução das Respostas
 
-### Teste 1: Exploração inicial
-* **Prompt V1:** *"O que é Open Finance?"*
-  
-* **Prompt V2:** *"Explique o que é o Open Finance, seus principais objetivos e como ele funciona no sistema financeiro brasileiro."*
+Durante o desenvolvimento deste projeto, foram realizados diferentes testes de prompts no NotebookLM com o objetivo de obter respostas cada vez mais completas, organizadas e alinhadas aos objetivos de estudo.
 
-    <details>
-    <summary><strong>Resposta</strong></summary>
+---
 
-  O Open Finance (anteriormente conhecido como Open Banking) é uma infraestrutura tecnológica e regulatória que permite o compartilhamento padronizado de dados, produtos e serviços financeiros entre instituições autorizadas pelo Banco Central do Brasil (BCB), por meio de plataformas integradas via APIs (Interfaces de Programação de Aplicativos).
+### Prompt 1 — Consulta Exploratória Inicial
 
-  A transição do nome para Open Finance ocorreu para refletir a ampliação do seu escopo, que passou a abranger não apenas serviços bancários tradicionais, mas também o compartilhamento de dados de investimentos, seguros, previdência complementar e operações de câmbio.
+* **Objetivo:** Compreender o conceito de Open Finance e obter uma visão geral sobre o tema.
+* **Prompt Utilizado:**
+  > *"O que é Open Finance?"*
+* **Resumo da Resposta:** O NotebookLM apresentou uma definição introdutória do Open Finance, explicando seu papel no sistema financeiro brasileiro, seus principais objetivos e alguns benefícios para consumidores e instituições financeiras.
+* **Fontes Utilizadas:** Open Finance – Banco Central do Brasil
+* **Limitações Identificadas:** Embora correta, a resposta foi bastante introdutória. Faltaram informações sobre regulamentação, participantes do ecossistema e diferenças entre Open Finance e Open Banking.
+* **Refinamento Realizado:** O prompt foi aprimorado para delimitar o contexto brasileiro e solicitar tópicos específicos, como regulamentação, participantes e funcionamento do sistema.
+* **Aprendizado:** Prompts mais específicos e contextualizados tendem a gerar respostas mais completas e alinhadas ao objetivo do estudo.
 
-  A sua premissa central é que os dados financeiros pertencem ao cliente, e não às instituições. Isso inverte o eixo de poder do mercado, garantindo ao consumidor (pessoa física ou jurídica) a soberania para decidir com quem, como e por quanto tempo deseja compartilhar seu histórico financeiro.
+---
 
-  #### Principais Objetivos
+### Prompt 2 — Organização do Conteúdo
 
-  O desenho regulatório do Open Finance pelo Banco Central foi pautado em quatro pilares fundamentais:
+* **Objetivo:** Organizar as informações em tópicos para facilitar a compreensão e a revisão do conteúdo.
+* **Prompt Utilizado:**
+  > *"Resuma de forma estruturada:*  
+  > *- O que é Open Finance?*  
+  > *- Como funciona?*  
+  > *- Principais participantes.*  
+  > *- Benefícios.*  
+  > *- Desafios.*  
+  > *- Perspectivas futuras."*
+* **Resumo da Resposta:** O NotebookLM organizou o conteúdo nos tópicos solicitados, abordando desde os conceitos fundamentais até os desafios atuais e as perspectivas futuras do Open Finance no Brasil.
+* **Fontes Utilizadas:** 
+  * *A Transformação Estrutural do Sistema Financeiro Brasileiro pelo Open Finance: Análise sobre Inclusão, Competitividade e Convergência Tecnológica*
+  * *Open Finance para empresas patina em burocracia e trava crédito mais barato*
+* **Limitações Identificadas:** Apesar da boa organização, a linguagem utilizada ficou muito próxima dos documentos técnicos originais, tornando a leitura menos fluida para um guia de estudos.
+* **Refinamento Realizado:** Foi solicitado que a resposta utilizasse uma linguagem mais didática, semelhante a um guia de estudos, mantendo o rigor técnico das informações.
+* **Aprendizado:** Além de definir o conteúdo desejado, especificar o estilo da resposta contribui para produzir materiais mais claros e adequados ao público-alvo.
 
-  - **Promover a concorrência:** Ao quebrar o monopólio histórico que as grandes instituições tínhamos sobre as informações de seus clientes, o sistema nivela as condições de disputa no mercado, permitindo que novos entrantes (como fintechs) concorram de forma mais justa.
-  - **Incentivar a inovação:** Facilita a criação de novos modelos de negócios e soluções financeiras personalizadas baseadas no comportamento real do usuário.
-  - **Aumentar a eficiência:** Otimiza o funcionamento do Sistema Financeiro Nacional (SFN) e do Sistema de Pagamentos Brasileiro (SPB), tornando os processos mais ágeis e menos custosos.
-  - **Promover a inclusão e cidadania financeira:** Facilita o acesso a produtos financeiros mais adequados e com taxas menores, além de ajudar a bancarizar e oferecer crédito a parcelas da população e pequenos empreendedores que antes eram penalizados pela falta de um histórico formal.
+---
 
-  #### Como funciona no Sistema Financeiro Brasileiro
-
-  **1. Implementação em Fases**
-
-  O ecossistema foi estruturado de forma gradual em quatro fases:
-  - **Fase 1:** Compartilhamento de dados abertos das próprias instituições, como canais de atendimento, produtos oferecidos e suas respectivas taxas.
-  - **Fase 2:** Compartilhamento de dados cadastrais e do histórico transacional dos clientes (contas, cartões e crédito).
-  - **Fase 3:** Iniciação de transações de pagamento (permitindo realizar um Pix fora do ambiente do banco, por exemplo) e encaminhamento de propostas de crédito.
-  - **Fase 4:** Compartilhamento de dados de produtos complexos (investimentos, previdência, seguros e câmbio).
-
-  **2. A Jornada de Compartilhamento**
-
-  Nenhum dado é movido sem a vontade do usuário. O processo exige três etapas estritas que ocorrem nos canais digitais dos bancos envolvidos: consentimento prévio, autenticação da identidade e confirmação do que será compartilhado. O usuário tem o controle para definir o prazo de validade (limitado a 12 meses, mas com regras recentes de simplificação) e pode revogar a permissão a qualquer momento.
-
-  **3. Participantes do Ecossistema**
-
-  O sistema conta com participantes obrigatórios, que englobam os grandes conglomerados bancários (segmentos S1 e S2) e instituições com mais de 5 milhões de clientes ativos, e participantes voluntários, que podem aderir ao sistema respeitando a regra da reciprocidade (quem recebe dados também deve estar apto a enviá-los). As instituições podem exercer os papéis de transmissoras de dados, receptoras de dados, provedoras de contas ou iniciadoras de transação de pagamento (ITPs).
-
-  **4. Governança e Segurança**
-
-  A operação do Open Finance não centraliza dados em um único banco de dados do Banco Central; as informações trafegam diretamente entre a instituição que envia e a que recebe, através de APIs padronizadas com forte criptografia. Todo o modelo obedece rigorosamente à Lei Geral de Proteção de Dados (LGPD) e às exigências de segurança cibernética do BCB. O dia a dia e os padrões técnicos são geridos por uma Estrutura de Governança Definitiva, formada por associações representativas do mercado (bancos, fintechs, meios de pagamento) e supervisionada pelo Banco Central.
-
-  #### Impactos Práticos
-
-  No dia a dia, o Open Finance converte-se em melhorias palpáveis:
-
-  - **Análise de crédito mais justa:** Os bancos passam a analisar o fluxo de caixa real, a renda recorrente e o comportamento atual do cliente, superando a visão restrita do score tradicional de birôs de crédito (que focam muito no histórico de negativações). Com isso, clientes podem conseguir redução nas taxas de juros, aumento de limites e até aprovação de crédito para autônomos.
-  - **Portabilidade de crédito 100% digital:** O sistema elimina a burocracia documental para que o consumidor transfira dívidas e empréstimos para o banco que oferecer a taxa mais barata.
-  - **Gestão Consolidada:** É possível usar apenas o aplicativo do seu banco favorito para enxergar saldos, investimentos e limites de todas as outras contas que você possui.
-  - **Pagamentos Inovadores:** Em conjunto com o Pix, o ecossistema permite "pagamentos agênticos" e transações iniciadas por aplicativos de terceiros ou lojas online, reduzindo etapas na hora de fechar uma compra (Jornada Sem Redirecionamento) e facilitando serviços como o Pix Automático.
-
-  </details>
-
-* **Análise:** A resposta apresentou uma visão ampla sobre o Open Finance, abordando seus principais conceitos, benefícios e aspectos relacionados à segurança. Entretanto, por se tratar de um prompt bastante abrangente, o conteúdo teve um caráter predominantemente introdutório. Para aprofundar o estudo e obter uma compreensão mais estruturada do tema, o próximo prompt buscará explorar seus objetivos e funcionamento no contexto do sistema financeiro brasileiro.
-* **Prompt V2:** *"Explique o que é o Open Finance, seus principais objetivos e como ele funciona no sistema financeiro brasileiro."*
+### Prompt 3 — Ajuste de Linguagem e Formatação (Versão Final)
 
 <details>
-<summary><strong>Resposta</strong></summary>
+<summary><b>Clique para ver os detalhes do Prompt 3 (Ajuste Fino de Linguagem)</b></summary>
 
-The Open Finance (anteriormente conhecido como Open Banking) é uma infraestrutura tecnológica e regulatória que permite o compartilhamento padronizado de dados, produtos e serviços financeiros entre instituições autorizadas pelo Banco Central do Brasil (BCB), por meio de plataformas integradas via APIs (Interfaces de Programação de Aplicativos).
+<br>
 
-A transição do nome para Open Finance ocorreu para refletir a ampliação do seu escopo, que passou a abranger não apenas serviços bancários tradicionais, mas também o compartilhamento de dados de investimentos, seguros, previdência complementar e operações de câmbio.
-
-A sua premissa central é que os dados financeiros pertencem ao cliente, e não às instituições. Isso inverte o eixo de poder do mercado, garantindo ao consumidor (pessoa física ou jurídica) a soberania para decidir com quem, como e por quanto tempo deseja compartilhar seu histórico financeiro.
-
-#### Principais Objetivos
-
-O desenho regulatório do Open Finance pelo Banco Central foi pautado em quatro pilares fundamentais:
-
-- **Promover a concorrência:** Ao quebrar o monopólio histórico que as grandes instituições tinham sobre as informações de seus clientes, o sistema nivela as condições de disputa no mercado, permitindo que novos entrantes (como fintechs) concorram de forma mais justa.
-- **Incentivar a inovação:** Facilita a criação de novos modelos de negócios e soluções financeiras personalizadas baseadas no comportamento real do usuário.
-- **Aumentar a eficiência:** Otimiza o funcionamento do Sistema Financeiro Nacional (SFN) e do Sistema de Pagamentos Brasileiro (SPB), tornando os processos mais ágeis e menos custosos.
-- **Promover a inclusão e cidadania financeira:** Facilita o acesso a produtos financeiros mais adequados e com taxas menores, além de ajudar a bancarizar e oferecer crédito a parcelas da população e pequenos empreendedores que antes eram penalizados pela falta de um histórico formal.
-
-#### Como funciona no Sistema Financeiro Brasileiro
-
-**1. Implementação em Fases**
-
-O ecossistema foi estruturado de forma gradual em quatro fases:
-- **Fase 1:** Compartilhamento de dados abertos das próprias instituições, como canais de atendimento, produtos oferecidos e suas respectivas taxas.
-- **Fase 2:** Compartilhamento de dados cadastrais e do histórico transacional dos clientes (contas, cartões e crédito).
-- **Fase 3:** Iniciação de transações de pagamento (permitindo realizar um Pix fora do ambiente do banco, por exemplo) e encaminhamento de propostas de crédito.
-- **Fase 4:** Compartilhamento de dados de produtos complexos (investimentos, previdência, seguros e câmbio).
-
-**2. A Jornada de Compartilhamento**
-
-Nenhum dado é movido sem a vontade do usuário. O processo exige três etapas estritas que ocorrem nos canais digitais dos bancos envolvidos: consentimento prévio, autenticação da identidade e confirmação do que será compartilhado. O usuário tem o controle para definir o prazo de validade (limitado a 12 meses, mas com regras recentes de simplificação) e pode revogar a permissão a qualquer momento.
-
-**3. Participantes do Ecossistema**
-
-O sistema conta com participantes obrigatórios, que englobam os grandes conglomerados bancários (segmentos S1 e S2) e instituições com mais de 5 milhões de clientes ativos, e participantes voluntários, que podem aderir ao sistema respeitando a regra da reciprocidade (quem recebe dados também deve estar apto a enviá-los). As instituições podem exercer os papéis de transmissoras de dados, receptoras de dados, provedoras de contas ou iniciadoras de transação de pagamento (ITPs).
-
-**4. Governança e Segurança**
-
-A operação do Open Finance não centraliza dados em um único banco de dados do Banco Central; as informações trafegam diretamente entre a instituição que envia e a que recebe, através de APIs padronizadas com forte criptografia. Todo o modelo obedece rigorosamente à Lei Geral de Proteção de Dados (LGPD) e às exigências de segurança cibernética do BCB. O dia a dia e os padrões técnicos são geridos por uma Estrutura de Governança Definitiva, formada por associações representativas do mercado (bancos, fintechs, meios de pagamento) e supervisionada pelo Banco Central.
-
-#### Impactos Práticos
-
-No dia a dia, o Open Finance converte-se em melhorias palpáveis:
-
-- **Análise de crédito mais justa:** Os bancos passam a analisar o fluxo de caixa real, a renda recorrente e o comportamento atual do cliente, superando a visão restrita do score tradicional de birôs de crédito (que focam muito no histórico de negativações). Com isso, clientes podem conseguir redução nas taxas de juros, aumento de limites e até aprovação de crédito para autônomos.
-- **Portabilidade de crédito 100% digital:** O sistema elimina a burocracia documental para que o consumidor transfira dívidas e empréstimos para o banco que oferecer a taxa mais barata.
-- **Gestão Consolidada:** É possível usar apenas o aplicativo do seu banco favorito para enxergar saldos, investimentos e limites de todas as outras contas que você possui.
-- **Pagamentos Inovadores:** Em conjunto com o Pix, o ecossistema permite "pagamentos agênticos" e transações iniciadas por aplicativos de terceiros ou lojas online, reduzindo etapas na hora de fechar uma compra (Jornada Sem Redirecionamento) e facilitando serviços como o Pix Automático.
+* **Objetivo:** Transformar o conteúdo técnico em um guia de estudos organizado, utilizando linguagem mais acessível e uma estrutura padronizada.
+* **Prompt Utilizado:**
+  > *"Escreva um resumo estruturado que seja mais parecido com um guia de estudos, e não com um relatório técnico. Organize a resposta utilizando os seguintes tópicos:*  
+  > *- O que é o Open Finance?*  
+  > *- Por que o Open Finance surgiu?*  
+  > *- Como funciona o compartilhamento de dados?*  
+  > *- Quem participa do ecossistema?*  
+  > *- Quais são os benefícios do Open Finance?*  
+  > *- Quais são os principais desafios?*  
+  > *- Qual é o futuro do Open Finance?"*
+* **Resumo da Resposta:** O NotebookLM apresentou o conteúdo em formato de guia de estudos, utilizando linguagem mais clara, títulos bem definidos e recursos de formatação que facilitaram a leitura e a revisão do material.
+* **Fontes Utilizadas:**
+  * *A Transformação Estrutural do Sistema Financeiro Brasileiro pelo Open Finance*
+  * *Como o Open Finance está mudando a análise de crédito no Brasil*
+  * *Open Finance para empresas patina em burocracia e trava crédito mais barato*
+* **Limitações Identificadas:** A resposta atendeu ao objetivo proposto e não exigiu novos ajustes estruturais.
+* **Refinamento Realizado:** A estratégia foi reutilizada na elaboração do glossário de conceitos-chave.
+* **Aprendizado:** Definir claramente o formato, a estrutura e o estilo esperado da resposta permite obter resultados consistentes e prontos para uso.
 
 </details>
-  
-* **Reflexão:** Mudar a abordagem de "o que é" para "análise comparativa com foco em dor de mercado" gerou insights muito mais ricos e aplicáveis a negócios.
 
-### 🔬 Teste 2: Extração para Segurança e Consentimento (LGPD)
-* **Prompt Aplicado:** *"Resuma como a segurança dos dados e o consentimento do cliente são tratados no ecossistema, citando as garantias do BACEN e as orientações do IDEC."*
-* **Desafio Encontrado (Cicatriz):** A IA tendia a generalizar a LGPD sem citar mecanismos práticos.
-* **Solução:** Adicionei a instrução: *"Destaque obrigatoriamente a revogabilidade do consentimento e a responsabilidade das instituições envolvidas."*
+---
+
+## Cicatrizes e Aprendizados Práticos (Troubleshooting)
+
+<details>
+<summary><b>Clique para ver as lições aprendidas e desafios de prompts</b></summary>
+
+<br>
+
+Durante os testes com o NotebookLM, foram identificados alguns desafios e oportunidades de melhoria:
+
+* **Prompts genéricos:** Produziram respostas corretas, porém superficiais. Adicionar contexto delimitado (*"no cenário brasileiro sob as normas do BCB"*) elevou a qualidade das respostas.
+* **Fidelidade às fontes:** Solicitar que a IA utilizasse apenas as fontes adicionadas (*grounding*) aumentou a confiabilidade das informações e evitou alucinações.
+* **Formatação de saída:** Definir o formato esperado (tabelas, listas ou tópicos estruturados) facilitou a organização direta do conteúdo no README.
+* **Estilo e tom de voz:** Ajustar o estilo da resposta para um formato de *"guia de estudos"* tornou o material mais claro e adequado ao objetivo do projeto.
+
+</details>
 
 ---
   
