@@ -210,16 +210,66 @@ Os participantes assumem diferentes papéis:
 
 ### 🔄 Prompts reutilizáveis
 
-Estes prompts podem ser copiados e colados no NotebookLM para gerar revisões rápidas:
+## 🔄 Prompts Reutilizáveis
 
-1. **Revisão para Entrevista Técnica:** 
-   > *"Simule uma pergunta de entrevista de emprego sobre os desafios de segurança no Open Finance e elabore uma resposta ideal estruturada em formato STAR (Situação, Tarefa, Ação e Resultado) com base nas fontes."*
+Os *prompts* abaixo foram desenvolvidos a partir da experiência adquirida neste projeto e funcionam como um *framework* adaptável para estudar o Open Finance ou qualquer outro tema utilizando o NotebookLM.
 
-2. **Geração de Quadro Comparativo:** 
-   > *"Crie uma tabela comparativa com os Impactos do Open Finance para 3 atores: Clientes PF, Grandes Bancos e Startups/Fintechs."*
+> **Como usar:** Copie o comando desejado e substitua a marcação **`[tema]`** pelo assunto de sua escolha (ex: *Open Finance no Brasil*, *Pix Automático*, *LGPD e Segurança Bancária*).
 
-3. **Análise de Tendências:** 
-   > *"Quais são as principais tendências citadas nas fontes sobre a convergência do Open Finance com o Pix e a Inteligência Artificial?"*
+---
+
+### 1. Compreensão Inicial
+> *"Explique **[tema]** de forma clara e objetiva. Apresente sua definição, objetivos, principais características e por que ele é importante no contexto estudado."*
+
+---
+
+### 2. Resumo Estruturado
+> *"Crie um resumo estruturado sobre **[tema]**, organizando a resposta em perguntas e respostas. Utilize apenas as informações presentes nas fontes adicionadas ao notebook."*
+
+---
+
+### 3. Comparação entre Fontes
+> *"Compare como cada uma das fontes aborda **[tema]**. Identifique pontos em comum, diferenças de abordagem, possíveis divergências e indique quais fontes sustentam cada conclusão."*
+
+---
+
+### 4. Tabela Comparativa
+> *"Analise **[tema]** sob diferentes perspectivas e organize a resposta em uma tabela comparativa, destacando vantagens, desafios e impactos para cada grupo envolvido."*
+
+---
+
+### 5. Aprofundamento
+> *"Quais são os principais desafios, limitações e oportunidades relacionados a **[tema]**? Baseie a resposta apenas nas fontes disponíveis e cite quais documentos sustentam cada argumento."*
+
+---
+
+### 6. Aplicações Práticas
+> *"Apresente exemplos práticos de aplicação de **[tema]**, explicando seus benefícios, riscos e possíveis impactos no dia a dia."*
+
+---
+
+### 7. Questões para Revisão
+> *"Elabore 10 questões sobre **[tema]**, alternando entre perguntas conceituais e de aplicação prática. Ao final, apresente o gabarito comentado e indique as fontes utilizadas."*
+
+---
+
+### 8. Explicação para Diferentes Públicos
+> *"Explique **[tema]** para três públicos diferentes:
+> - Uma pessoa sem conhecimento prévio;
+> - Um estudante universitário;
+> - Um profissional da área.
+> 
+> Adapte a linguagem e o nível de profundidade para cada público."*
+
+---
+
+### 9. Tendências Futuras
+> *"Com base nas fontes disponíveis, identifique as principais tendências relacionadas a **[tema]**, explicando seus possíveis impactos no curto, médio e longo prazo."*
+
+---
+
+### 10. Glossário de Conceitos
+> *"Crie um glossário com os principais conceitos relacionados a **[tema]**, apresentando uma definição simples, clara e objetiva para cada termo."*
 
 ## 💡 Aprendizados
 
