@@ -1,3 +1,4 @@
+<img width="900" height="470" alt="readme-github" src="https://github.com/user-attachments/assets/cda2ebc5-e5dd-4f53-a7c3-812e306b3a0e" />
 # 🏦 Miniguia de estudos: Open Finance no Brasil com NotebookLM
 
 ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
