@@ -4,6 +4,18 @@
 ![Bootcamp](https://img.shields.io/badge/Bootcamp-Santander%20%2B%20DIO-red)
 ![Tema](https://img.shields.io/badge/Tema-Open%20Finance-blue)
 
+## 📑 Índice
+
+- Contexto
+- Objetivo
+- Curadoria de fontes
+- Engenharia de Prompts
+- Miniguia de Estudo
+  - Resumos estruturados do assunto
+  - Glossário de conceitos-chave
+  - Prompts reutilizáveis para revisão futura
+- Aprendizados
+
 ## 📌 Contexto
 
 Este projeto foi desenvolvido como parte do Bootcamp Santander em parceria com a DIO, explorando o uso do NotebookLM como ferramenta de aprendizagem ativa.
@@ -13,10 +25,6 @@ O tema escolhido foi Open Finance, uma iniciativa que vem transformando o sistem
 ## 🎯 Objetivo
 
 Compreender como o Open Finance está transformando o sistema financeiro brasileiro, explorando seus benefícios, desafios, regulamentação e impactos para consumidores, instituições financeiras e fintechs.
-
-## 👥 Público-alvo
-
-Estudantes, profissionais em início de carreira e pessoas interessadas em compreender como o Open Finance está transformando o sistema financeiro brasileiro.
 
 ## 📚 Curadoria de fontes
 
@@ -173,7 +181,7 @@ Embora o Brasil seja referência mundial em adesão de pessoas físicas, a fric�
 
 ---
 
-### 📖 Glossário de Conceitos-Chave
+### 📖 Glossário de conceitos-chave
 
 | Conceito | Definição |
 | :--- | :--- |
@@ -185,7 +193,7 @@ Embora o Brasil seja referência mundial em adesão de pessoas físicas, a fric�
 
 ---
 
-### 🔄 Prompts Reutilizáveis para Revisão Futura
+### 🔄 Prompts reutilizáveis para revisão futura
 
 Estes prompts podem ser copiados e colados no NotebookLM para gerar revisões rápidas:
 
@@ -197,10 +205,3 @@ Estes prompts podem ser copiados e colados no NotebookLM para gerar revisões r�
 
 3. **Análise de Tendências:** 
    > *"Quais são as principais tendências citadas nas fontes sobre a convergência do Open Finance com o Pix e a Inteligência Artificial?"*
-
----
-
-## 🛠️ Como Utilizar este Repositório
-1. Acesse os links fornecidos na seção de **Curadoria de Fontes**.
-2. Suba os arquivos/links em um caderno no [NotebookLM](https://notebooklm.google.com/).
-3. Utilize a seção de **Prompts Reutilizáveis** no chat do NotebookLM para estudar e revisar o conteúdo.
