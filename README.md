@@ -18,7 +18,7 @@
     - Prompts reutilizáveis
 - Aprendizados
 
-## 📌 Contexto
+## 🌐 Contexto
 
 Este projeto foi desenvolvido como parte do Bootcamp Santander em parceria com a DIO, explorando o uso do NotebookLM como ferramenta de aprendizagem ativa.
 
