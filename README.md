@@ -124,7 +124,6 @@ No dia a dia, o Open Finance converte-se em melhorias palpáveis:
 - Gestão Consolidada: É possível usar apenas o aplicativo do seu banco favorito para enxergar saldos, investimentos e limites de todas as outras contas que você possui.
 
 - Pagamentos Inovadores: Em conjunto com o Pix, o ecossistema permite "pagamentos agênticos" e transações iniciadas por aplicativos de terceiros ou lojas online, reduzindo etapas na hora de fechar uma compra (Jornada Sem Redirecionamento) e facilitando serviços como o Pix Automático.
-
 </details>
   
 * **Reflexão:** Mudar a abordagem de "o que é" para "análise comparativa com foco em dor de mercado" gerou insights muito mais ricos e aplicáveis a negócios.
