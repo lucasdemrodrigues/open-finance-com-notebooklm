@@ -1,4 +1,4 @@
-# 🚀 Miniguia de estudos: Open Finance no Brasil com NotebookLM
+# 🏦 Miniguia de estudos: Open Finance no Brasil com NotebookLM
 
 ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
 ![Bootcamp](https://img.shields.io/badge/Bootcamp-Santander%20%2B%20DIO-red)
