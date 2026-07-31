@@ -28,19 +28,26 @@ Compreender como o Open Finance está transformando o sistema financeiro brasile
 
 ## 📚 Curadoria de fontes
 
-Para garantir a acurácia técnica do NotebookLM, selecionei 8 fontes de alta autoridade e diversidade metodológica, contemplando conteúdos em texto e vídeo de órgãos reguladores, instituições financeiras, especialistas do setor, entidades do consumidor e portais de notícias especializados:
+Para garantir a acurácia técnica do NotebookLM, selecionei 11 fontes de alta autoridade e diversidade metodológica, contemplando conteúdos em texto e vídeo de órgãos reguladores, instituições financeiras, especialistas do setor, entidades do consumidor e portais de notícias especializados:
 
-* **Fontes em texto:** 
-  1. **[Banco Central do Brasil]** [Visão Geral e Normativa do Open Finance](https://www.bcb.gov.br/estabilidadefinanceira/openfinance)
-  2. **[Banco Central do Brasil]** [Diretrizes de Segurança e Proteção de Dados](https://www.bcb.gov.br/estabilidadefinanceira/seguranca-open-finance)
-  3. **[Banco Central do Brasil]** [FAQ Oficial do Open Finance](https://bcb.gov.br/meubc/faqs/s/open-finance)
-  4. **[Santander Brasil]** [Open Finance na Prática Bancária](https://www.santander.com.br/banco/open-finance/)
-  5. **[IDEC]** [Tudo o que você precisa saber sobre Open Banking/Finance](https://idec.org.br/dicas-e-direitos)
-  6. **[Finsiders Brasil]** [Brasil lidera Open Finance no mundo e alcança marca histórica](https://finsidersbrasil.com.br/economia-open/brasil-lidera-open-finance-no-mundo-com-100-milhoes-de-clientes/)
-  7. **[Valor Investe]** [Open Finance para Empresas: Desafios e Burocracia no Crédito B2B](https://valorinveste.globo.com/produtos/servicos-financeiros/)
+### 📄 Textos:
+- 🏛️ **[Página Oficial do Open Finance — Banco Central do Brasil (BCB)](https://www.bcb.gov.br/estabilidadefinanceira/openfinance):** Documentação técnica e regulatória oficial sobre os pilares, diretrizes e funcionamento do ecossistema no Brasil.
+- 📈 **[Brasil lidera Open Finance no mundo com 100 milhões de clientes — Finsiders Brasil](https://finsidersbrasil.com.br/economia-open/brasil-lidera-open-finance-no-mundo-com-100-milhoes-de-clientes/):** Análise quantitativa do crescimento de conexões, adesão do público e comparativo de maturidade frente a outros países.
+- 🏦 **[Portal de Transparência e Jornadas do Open Finance — Santander Brasil](https://www.santander.com.br/banco/open-finance/):** Exemplo prático de portal institucional apresentando benefícios de portabilidade, agregação de saldos e termos de consentimento.
+- 💳 **[Como o Open Finance está mudando a análise de crédito no Brasil — Valor Investe (Maio/2026)](https://valorinveste.globo.com/produtos/servicos-financeiros/noticia/2026/05/28/como-o-open-finance-esta-mudando-a-analise-de-credito-no-brasil.ghtml):** Matéria explicativa sobre a transição do *score* tradicional para a análise comportamental de fluxo de caixa e histórico real.
+- 🏢 **[Open Finance para empresas patina em burocracia e trava crédito mais barato — Valor Investe (Maio/2026)](https://valorinveste.globo.com/produtos/servicos-financeiros/noticia/2026/05/29/open-finance-para-empresas-patina-em-burocracia-e-trava-credito-mais-barato.ghtml):** Análise de gargalos e fricções nas jornadas B2B, com foco em empresas de múltiplos sócios e alçadas de aprovação.
+- 🛡️ **[O futuro das finanças depende de uma inovação em que se possa confiar — Exame](https://exame.com/future-of-money/o-futuro-das-financas-depende-de-uma-inovacao-em-que-se-possa-confiar/):** Artigo de opinião cobrindo privacidade de dados, governança, segurança cibernética e alinhamento com a LGPD.
+- 🤖 **[Pagamentos invisíveis ganham espaço com Pix, Open Finance e Inteligência Artificial — Brasil Economy (Julho/2026)](https://brazileconomy.com.br/opiniao/2026/07/pagamentos-invisiveis-ganham-espaco-com-pix-open-finance-e-inteligencia-artificial/):** Visão de futuro sobre a convergência entre trilhos do Pix, Jornada Sem Redirecionamento (JSR), finanças autônomas e modelos de IA.
 
-* **Fontes em vídeo:**
-  1. **[Ministério da Fazenda / Banco Central]** [Live BC: Como funciona o Open Finance e como utilizar o ecossistema](https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/acesso-a-informacao/noticias/2024/livebc-detalhou-como-funciona-o-open-finance-e-como-utilizar-o-ecossistema)
+### 🎥 Vídeos:
+- 🎓 **[Aula 02 — Open Banking / Open Finance](https://www.youtube.com/watch?v=SFIfMD5ajw8)** *(Canal: Prof. Willian Capriata)*  
+  Vídeo explicativo detalhando a transição conceitual do Open Banking para o Open Finance, fases de implementação, resoluções do BCB e os papéis dos participantes (transmissores, receptores e ITPs).
+- 🎙️ **[5 Anos do Open Finance com Ana Carla Abrão — Let’s Money #021](https://www.youtube.com/watch?v=-lfhoMn8ya8)** *(Canal: Let's Money)*  
+  Entrevista detalhada sobre a consolidação da Associação Open Finance Brasil, avanços no crédito consignado/pessoal, estratégias de monitoria técnica e perspectivas para o mercado B2B.
+- 📺 **[Open Finance: O 'primo desconhecido do Pix' que está mudando o sistema bancário](https://www.youtube.com/watch?v=a-AtkQOiTLA)** *(Canal: InvestNews BR)*  
+  Videocast abordando o uso prático do Open Finance no cotidiano, impactos nas taxas de juros, consolidação de saldos e a usabilidade dos consentimentos.
+- 🎬 **[Documentário: Open Finance — A Revolução Financeira](https://www.youtube.com/watch?v=HV7DL8aINK4)** *(Canal: Let's Money)*  
+  Documentário investigativo que conta a história da regulação no Brasil (do caso Guiabolso à consulta pública do BCB), os bastidores técnicos das APIs, o papel das ITPs e o futuro com IA e Drex.
 
 ## 🧠 Engenharia de prompts
 
