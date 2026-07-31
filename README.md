@@ -55,7 +55,7 @@ Para garantir a acurácia técnica do NotebookLM, selecionei 11 fontes de alta a
 
 Durante o desenvolvimento deste projeto, foram realizados diferentes testes de prompts no NotebookLM com o objetivo de obter respostas cada vez mais completas, organizadas e alinhadas aos objetivos de estudo.
 
-### Prompt 1 — Consulta Exploratória Inicial
+### Prompt 1 — Consulta exploratória inicial
 
 * **Objetivo:** Compreender o conceito de Open Finance e obter uma visão geral sobre o tema.
 * **Prompt Utilizado:**
@@ -68,7 +68,7 @@ Durante o desenvolvimento deste projeto, foram realizados diferentes testes de p
 
 ---
 
-### Prompt 2 — Organização do Conteúdo
+### Prompt 2 — Organização do conteúdo
 
 * **Objetivo:** Organizar as informações em tópicos para facilitar a compreensão e a revisão do conteúdo.
 * **Prompt Utilizado:**
@@ -89,7 +89,7 @@ Durante o desenvolvimento deste projeto, foram realizados diferentes testes de p
 
 ---
 
-### Prompt 3 — Ajuste de Linguagem e Formatação (Versão Final)
+### Prompt 3 — Ajuste de linguagem e formatação
 
 * **Objetivo:** Transformar o conteúdo técnico em um guia de estudos organizado, utilizando linguagem mais acessível e uma estrutura padronizada.
 * **Prompt Utilizado:**
