@@ -217,15 +217,26 @@ O Open Finance caminha para uma convergência estrutural com o Pix (Pix Automát
 
 No médio e longo prazo, prevê-se a integração com o *Open Capital Markets* (junto à CVM), a evolução da portabilidade de salário e o uso intensivo de IA Generativa aplicada aos dados abertos para proporcionar hiperpersonalização de serviços financeiros em tempo real.
 
+---
+
 ### 📖 Glossário
 
-| Conceito | Definição |
+| Termo / Conceito | Definição |
 | :--- | :--- |
-| **API (Application Programming Interface)** | Conjunto de regras e protocolos que permite que sistemas bancários diferentes se comuniquem e troquem dados de forma segura. |
-| **Consentimento** | Autorização expressa, informada e por prazo determinado dada pelo cliente para o compartilhamento de seus dados. |
-| **Principalidade** | Objetivo estratégico das instituições de se tornarem a conta primária e preferencial de uso do cliente. |
-| **JSR (Jornada Sem Redirecionamento)** | Experiência de pagamento/iniciação em que o cliente não precisa mudar de app para autorizar a transação. |
-| **ITP (Iniciador de Transação de Pagamento)** | Entidade regulada autorizada a iniciar pagamentos (ex: Pix) sem deter a custódia do dinheiro do cliente. |
+| **API (Interface de Programação de Aplicativos)** | Tecnologia segura que permite a comunicação e a integração padronizada entre os sistemas de diferentes instituições financeiras, sem centralizar as informações. |
+| **Associação Open Finance** | Estrutura de governança gerida por instituições participantes e supervisionada pelo Banco Central, responsável por definir os padrões técnicos, operacionais e de segurança, além de monitorar o ecossistema. |
+| **Consentimento** | Autorização prévia, livre, informada e inequívoca do cliente (por meios eletrônicos) para compartilhar seus dados ou iniciar um pagamento. Tem prazo de validade (até 12 meses), finalidade específica e pode ser revogado a qualquer momento. |
+| **Drex (Real Digital)** | Representação oficial em formato digital (tokenizado) da moeda soberana brasileira, operando em rede segura que permite a criação de *smart contracts* para automação de transações. |
+| **Iniciadora de Transação de Pagamento (ITP)** | Instituição autorizada a comandar uma transferência ou pagamento a pedido do cliente a partir de plataformas de terceiros, sem nunca reter ou deter os fundos transacionados. |
+| **Instituição Detentora de Conta** | Instituição financeira ou de pagamento na qual o cliente possui e mantém sua conta (depósito, poupança ou pré-paga) de livre movimentação. |
+| **Instituição Receptora de Dados** | Instituição participante que, com a prévia autorização do cliente, solicita e recebe os dados financeiros que estavam armazenados em outro banco. |
+| **Instituição Transmissora de Dados** | Instituição onde os dados do cliente estão armazenados originalmente e que realiza o envio seguro dessas informações para a instituição receptora. |
+| **Jornada Sem Redirecionamento (JSR)** | Modelo de pagamento que remove atritos na hora da compra, permitindo a conclusão de um pagamento sem que o usuário precise ser redirecionado para o aplicativo do seu banco original. |
+| **Open Banking** | Termo original do sistema de compartilhamento de dados do Banco Central, focado inicialmente apenas no escopo de serviços e produtos bancários tradicionais. |
+| **Open Finance (Sistema Financeiro Aberto)** | Evolução do Open Banking que abrange todo o mercado financeiro. Permite o compartilhamento de dados, produtos e serviços (investimentos, previdência, seguros e câmbio) sob controle total do cliente. |
+| **Pix Automático** | Solução para automatizar pagamentos recorrentes (contas de consumo, assinaturas e mensalidades) sobre a infraestrutura do Pix, reduzindo a dependência do débito automático tradicional. |
+| **Portabilidade de Crédito** | Funcionalidade 100% digital impulsionada pelo Open Finance que permite a transferência de dívidas e empréstimos para outra instituição que ofereça taxas de juros mais atrativas. |
+| **Smart Contracts (Contratos Inteligentes)** | Regras ou protocolos programáveis (como no ecossistema do Drex) que executam transações automaticamente assim que condições preestabelecidas são cumpridas. |
 
 ### 🔄 Prompts reutilizáveis
 
