@@ -67,7 +67,6 @@ Nesta seção, registrei a evolução dos prompts utilizados dentro do NotebookL
 
 * **Análise:** A resposta apresentou uma visão ampla sobre o Open Finance, abordando seus principais conceitos, benefícios e aspectos relacionados à segurança. Entretanto, por se tratar de um prompt bastante abrangente, o conteúdo teve um caráter predominantemente introdutório. Para aprofundar o estudo e obter uma compreensão mais estruturada do tema, o próximo prompt buscará explorar seus objetivos e funcionamento no contexto do sistema financeiro brasileiro.
 * **Prompt V2:** *"Explique o que é o Open Finance, seus principais objetivos e como ele funciona no sistema financeiro brasileiro."*
-
 *   <details>
   <summary><strong>Resposta</strong></summary>
 
