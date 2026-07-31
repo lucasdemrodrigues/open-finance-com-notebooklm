@@ -8,12 +8,12 @@
 
 - Contexto
 - Objetivo
-- Curadoria de fontes
+- Curadoria de Fontes
 - Engenharia de Prompts
 - Miniguia de Estudo
-  - Resumos estruturados do assunto
-  - Glossário de conceitos-chave
-  - Prompts reutilizáveis para revisão futura
+    - Resumos Estruturados
+    - Glossário de Conceitos-Chave
+    - Prompts Reutilizáveis para Revisão Futura
 - Aprendizados
 
 ## 📌 Contexto
