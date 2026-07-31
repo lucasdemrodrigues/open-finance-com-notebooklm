@@ -91,11 +91,6 @@ Durante o desenvolvimento deste projeto, foram realizados diferentes testes de p
 
 ### Prompt 3 — Ajuste de Linguagem e Formatação (Versão Final)
 
-<details>
-<summary><b>Clique para ver os detalhes do Prompt 3 (Ajuste Fino de Linguagem)</b></summary>
-
-<br>
-
 * **Objetivo:** Transformar o conteúdo técnico em um guia de estudos organizado, utilizando linguagem mais acessível e uma estrutura padronizada.
 * **Prompt Utilizado:**
   > *"Escreva um resumo estruturado que seja mais parecido com um guia de estudos, e não com um relatório técnico. Organize a resposta utilizando os seguintes tópicos:*  
@@ -114,17 +109,10 @@ Durante o desenvolvimento deste projeto, foram realizados diferentes testes de p
 * **Limitações Identificadas:** A resposta atendeu ao objetivo proposto e não exigiu novos ajustes estruturais.
 * **Refinamento Realizado:** A estratégia foi reutilizada na elaboração do glossário de conceitos-chave.
 * **Aprendizado:** Definir claramente o formato, a estrutura e o estilo esperado da resposta permite obter resultados consistentes e prontos para uso.
-
-</details>
-
+  
 ---
 
-## Cicatrizes e Aprendizados Práticos (Troubleshooting)
-
-<details>
-<summary><b>Clique para ver as lições aprendidas e desafios de prompts</b></summary>
-
-<br>
+## Cicatrizes (Troubleshooting)
 
 Durante os testes com o NotebookLM, foram identificados alguns desafios e oportunidades de melhoria:
 
@@ -132,8 +120,6 @@ Durante os testes com o NotebookLM, foram identificados alguns desafios e oportu
 * **Fidelidade às fontes:** Solicitar que a IA utilizasse apenas as fontes adicionadas (*grounding*) aumentou a confiabilidade das informações e evitou alucinações.
 * **Formatação de saída:** Definir o formato esperado (tabelas, listas ou tópicos estruturados) facilitou a organização direta do conteúdo no README.
 * **Estilo e tom de voz:** Ajustar o estilo da resposta para um formato de *"guia de estudos"* tornou o material mais claro e adequado ao objetivo do projeto.
-
-</details>
 
 ---
   
