@@ -70,7 +70,6 @@ Nesta seção, registrei a evolução dos prompts utilizados dentro do NotebookL
 
   <details>
 <summary><strong>Resposta</strong></summary>
-
 O Open Finance (anteriormente conhecido como Open Banking) é uma infraestrutura tecnológica e regulatória que permite o compartilhamento padronizado de dados, produtos e serviços financeiros entre instituições autorizadas pelo Banco Central do Brasil (BCB), por meio de plataformas integradas via APIs (Interfaces de Programação de Aplicativos).
 
 A transição do nome para Open Finance ocorreu para refletir a ampliação do seu escopo, que passou a abranger não apenas serviços bancários tradicionais, mas também o compartilhamento de dados de investimentos, seguros, previdência complementar e operações de câmbio.
