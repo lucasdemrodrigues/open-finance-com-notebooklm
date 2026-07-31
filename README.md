@@ -165,6 +165,7 @@ No dia a dia, o Open Finance converte-se em melhorias palpáveis:
 
 <h2>📘 Miniguia de estudo</h2>
 ---
+
 ## 📌 Resumos Estruturados do Assunto
 
 ### 1. A Regulação e o Ecossistema do BACEN
