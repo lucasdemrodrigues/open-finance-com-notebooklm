@@ -53,11 +53,7 @@ Para garantir a acurácia técnica do NotebookLM, selecionei 11 fontes de alta a
 
 ## 🧠 Engenharia de prompts
 
-## Engenharia de Prompts e Evolução das Respostas
-
 Durante o desenvolvimento deste projeto, foram realizados diferentes testes de prompts no NotebookLM com o objetivo de obter respostas cada vez mais completas, organizadas e alinhadas aos objetivos de estudo.
-
----
 
 ### Prompt 1 — Consulta Exploratória Inicial
 
