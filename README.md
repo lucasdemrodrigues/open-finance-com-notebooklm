@@ -11,9 +11,9 @@
 - Curadoria de fontes
 - Engenharia de prompts
 - Miniguia de estudo
-    - Resumos estruturados
-    - Glossário de conceitos-chave
-    - Prompts reutilizáveis para revisão futura
+    - Resumos
+    - Glossário
+    - Prompts reutilizáveis
 - Aprendizados
 
 ## 📌 Contexto
@@ -162,10 +162,12 @@ No dia a dia, o Open Finance converte-se em melhorias palpáveis:
 * **Prompt Aplicado:** *"Resuma como a segurança dos dados e o consentimento do cliente são tratados no ecossistema, citando as garantias do BACEN e as orientações do IDEC."*
 * **Desafio Encontrado (Cicatriz):** A IA tendia a generalizar a LGPD sem citar mecanismos práticos.
 * **Solução:** Adicionei a instrução: *"Destaque obrigatoriamente a revogabilidade do consentimento e a responsabilidade das instituições envolvidas."*
+
+---
   
 # 📘 Miniguia de Estudo
 
-## 📌 Resumos Estruturados do Assunto
+## 📌 Resumos
 
 ### 1. A Regulação e o Ecossistema do BACEN
 O Open Finance brasileiro é uma iniciativa regulada pelo Banco Central do Brasil que obriga o compartilhamento padronizado de dados e serviços financeiros entre instituições autorizadas, mediante o consentimento explícito e revogável do consumidor.
@@ -177,7 +179,7 @@ O Open Finance brasileiro é uma iniciativa regulada pelo Banco Central do Brasi
 ### 3. Gargalos e Desafios Atuais
 Embora o Brasil seja referência mundial em adesão de pessoas físicas, a fricção em jornadas para PJs (alçadas de aprovação) e a resistência de parte da base quanto ao compartilhamento contínuo de dados ainda travam o pleno potencial do crédito B2B.
 
-## 📖 Glossário de conceitos-chave
+## 📖 Glossário
 
 | Conceito | Definição |
 | :--- | :--- |
@@ -187,7 +189,7 @@ Embora o Brasil seja referência mundial em adesão de pessoas físicas, a fric�
 | **JSR (Jornada Sem Redirecionamento)** | Experiência de pagamento/iniciação em que o cliente não precisa mudar de app para autorizar a transação. |
 | **ITP (Iniciador de Transação de Pagamento)** | Entidade regulada autorizada a iniciar pagamentos (ex: Pix) sem deter a custódia do dinheiro do cliente. |
 
-## 🔄 Prompts reutilizáveis para revisão futura
+## 🔄 Prompts reutilizáveis
 
 Estes prompts podem ser copiados e colados no NotebookLM para gerar revisões rápidas:
 
