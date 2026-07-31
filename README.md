@@ -1,4 +1,7 @@
-<img width="900" height="470" alt="readme-github" src="https://github.com/user-attachments/assets/cda2ebc5-e5dd-4f53-a7c3-812e306b3a0e" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c746bb90-5ca9-4f99-831d-9b1b2bdbd30d" width="100%" height="180" style="object-fit: cover;" alt="Banner Open Finance" />
+</p>
+
 # 🏦 Miniguia de estudos: Open Finance no Brasil com NotebookLM
 
 ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
