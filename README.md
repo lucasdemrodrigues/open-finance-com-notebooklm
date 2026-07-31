@@ -165,8 +165,7 @@ No dia a dia, o Open Finance converte-se em melhorias palpáveis:
 
 ---
   
-## MINIGUIA DE ESTUDO
-
+## 📘 Miniguia de estudo
 
 ### 📌 Resumos
 
