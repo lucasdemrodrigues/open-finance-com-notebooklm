@@ -26,11 +26,11 @@ O tema escolhido foi Open Finance, uma iniciativa que vem transformando o sistem
 
 Compreender como o Open Finance está transformando o sistema financeiro brasileiro, explorando seus benefícios, desafios, regulamentação e impactos para consumidores, instituições financeiras e fintechs.
 
-## 📚 Curadoria de fontes
+## 📚 Curadoria de fontes (Colocar motivos da escolha)
 
 Para garantir a acurácia técnica do NotebookLM, selecionei 8 fontes de alta autoridade e diversidade metodológica (órgãos reguladores, entidades do consumidor, portais de notícias do setor e grandes instituições bancárias):
 
-* **Fontes em texto:** (Colocar motivos da escolha)
+* **Fontes em texto:** 
   1. **[Banco Central do Brasil]** [Visão Geral e Normativa do Open Finance](https://www.bcb.gov.br/estabilidadefinanceira/openfinance)
   2. **[Banco Central do Brasil]** [Diretrizes de Segurança e Proteção de Dados](https://www.bcb.gov.br/estabilidadefinanceira/seguranca-open-finance)
   3. **[Banco Central do Brasil]** [FAQ Oficial do Open Finance](https://bcb.gov.br/meubc/faqs/s/open-finance)
@@ -179,8 +179,6 @@ O Open Finance brasileiro é uma iniciativa regulada pelo Banco Central do Brasi
 #### 3. Gargalos e Desafios Atuais
 Embora o Brasil seja referência mundial em adesão de pessoas físicas, a fricção em jornadas para PJs (alçadas de aprovação) e a resistência de parte da base quanto ao compartilhamento contínuo de dados ainda travam o pleno potencial do crédito B2B.
 
----
-
 ### 📖 Glossário de conceitos-chave
 
 | Conceito | Definição |
@@ -190,8 +188,6 @@ Embora o Brasil seja referência mundial em adesão de pessoas físicas, a fric�
 | **Principalidade** | Objetivo estratégico das instituições de se tornarem a conta primária e preferencial de uso do cliente. |
 | **JSR (Jornada Sem Redirecionamento)** | Experiência de pagamento/iniciação em que o cliente não precisa mudar de app para autorizar a transação. |
 | **ITP (Iniciador de Transação de Pagamento)** | Entidade regulada autorizada a iniciar pagamentos (ex: Pix) sem deter a custódia do dinheiro do cliente. |
-
----
 
 ### 🔄 Prompts reutilizáveis para revisão futura
 
