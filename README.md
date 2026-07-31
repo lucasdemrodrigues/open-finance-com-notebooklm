@@ -1,4 +1,4 @@
-# 🚀 Miniguia de Estudos: Open Finance no Brasil com NotebookLM
+# 🚀 Miniguia de estudos: Open Finance no Brasil com NotebookLM
 
 ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
 ![Bootcamp](https://img.shields.io/badge/Bootcamp-Santander%20%2B%20DIO-red)
@@ -10,8 +10,8 @@
 - Objetivo
 - Curadoria de fontes
 - Engenharia de prompts
-- Miniguia de estudo
-    - Resumos
+- Miniguia de estudos
+    - Resumos estruturados
     - Glossário
     - Prompts reutilizáveis
 - Aprendizados
@@ -165,7 +165,7 @@ No dia a dia, o Open Finance converte-se em melhorias palpáveis:
 
 ---
   
-## 📘 Miniguia de estudo
+## 📘 Miniguia de estudos
 
 ### 📌 Resumos
 
