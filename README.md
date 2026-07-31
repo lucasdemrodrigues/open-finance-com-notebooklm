@@ -214,7 +214,7 @@ Os participantes assumem diferentes papéis:
 
 Os *prompts* abaixo foram desenvolvidos a partir da experiência adquirida neste projeto e funcionam como um *framework* adaptável para estudar o Open Finance ou qualquer outro tema utilizando o NotebookLM.
 
-> **Como usar:** Copie o comando desejado e substitua a marcação **`[tema]`** pelo assunto de sua escolha (ex: *Open Finance no Brasil*, *Pix Automático*, *LGPD e Segurança Bancária*).
+> **Como utilizar:** copie o prompt desejado e substitua [tema] pelo assunto que deseja estudar (por exemplo: Open Finance no Brasil, Pix Automático ou LGPD e Segurança Bancária).
 
 ---
 
