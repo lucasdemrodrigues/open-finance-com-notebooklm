@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c746bb90-5ca9-4f99-831d-9b1b2bdbd30d" width="100%" height="180" style="object-fit: cover;" alt="Banner Open Finance" />
+  <img src="https://i.imgur.com/vH79wR1.png" width="100%" height="180" style="object-fit: cover;" alt="Capa Guia Open Finance com NotebookLM" />
 </p>
 
 # 🏦 Miniguia de estudos: Open Finance no Brasil com NotebookLM
