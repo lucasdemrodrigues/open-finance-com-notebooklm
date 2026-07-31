@@ -233,7 +233,7 @@ Os participantes assumem diferentes papéis:
 
 ### 📖 Glossário
 
-| Termo / Conceito | Definição |
+| Termo | Definição |
 | :--- | :--- |
 | **API (Interface de Programação de Aplicativos)** | Tecnologia segura que permite a comunicação e a integração padronizada entre os sistemas de diferentes instituições financeiras, sem centralizar as informações. |
 | **Associação Open Finance** | Estrutura de governança gerida por instituições participantes e supervisionada pelo Banco Central, responsável por definir os padrões técnicos, operacionais e de segurança, além de monitorar o ecossistema. |
