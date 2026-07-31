@@ -67,9 +67,9 @@ Nesta seção, registrei a evolução dos prompts utilizados dentro do NotebookL
 
 * **Análise:** A resposta apresentou uma visão ampla sobre o Open Finance, abordando seus principais conceitos, benefícios e aspectos relacionados à segurança. Entretanto, por se tratar de um prompt bastante abrangente, o conteúdo teve um caráter predominantemente introdutório. Para aprofundar o estudo e obter uma compreensão mais estruturada do tema, o próximo prompt buscará explorar seus objetivos e funcionamento no contexto do sistema financeiro brasileiro.
 * **Prompt V2:** *"Explique o que é o Open Finance, seus principais objetivos e como ele funciona no sistema financeiro brasileiro."*
-*   <details>
-  <summary><strong>Resposta</strong></summary>
 
+  <details>
+  <summary><strong>Resposta</strong></summary>
   O Open Finance (anteriormente conhecido como Open Banking) é uma infraestrutura tecnológica e regulatória que permite o compartilhamento padronizado de dados, produtos e serviços financeiros entre instituições autorizadas pelo Banco Central do Brasil (BCB), por meio de plataformas integradas via APIs (Interfaces de Programação de Aplicativos).
   A transição do nome para Open Finance ocorreu para refletir a ampliação do seu escopo, que passou a abranger não apenas serviços bancários tradicionais, mas também o compartilhamento de dados de investimentos, seguros, previdência complementar e operações de câmbio.
   A sua premissa central é que os dados financeiros pertencem ao cliente, e não às instituições. Isso inverte o eixo de poder do mercado, garantindo ao consumidor (pessoa física ou jurídica) a soberania para decidir com quem, como e por quanto tempo deseja compartilhar seu histórico financeiro.
