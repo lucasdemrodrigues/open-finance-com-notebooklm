@@ -164,6 +164,7 @@ No dia a dia, o Open Finance converte-se em melhorias palpáveis:
 * **Solução:** Adicionei a instrução: *"Destaque obrigatoriamente a revogabilidade do consentimento e a responsabilidade das instituições envolvidas."*
 
 <h2>📘 Miniguia de estudo</h2>
+
 ---
 
 ## 📌 Resumos Estruturados do Assunto
