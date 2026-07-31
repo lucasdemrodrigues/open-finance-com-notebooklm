@@ -216,22 +216,22 @@ Os *prompts* abaixo foram desenvolvidos a partir da experiência adquirida neste
 
 ---
 
-### 1. Compreensão Inicial
+### 1. Compreensão inicial
 > *"Explique **[tema]** de forma clara e objetiva. Apresente sua definição, objetivos, principais características e por que ele é importante no contexto estudado."*
 
 ---
 
-### 2. Resumo Estruturado
+### 2. Resumo estruturado
 > *"Crie um resumo estruturado sobre **[tema]**, organizando a resposta em perguntas e respostas. Utilize apenas as informações presentes nas fontes adicionadas ao notebook."*
 
 ---
 
-### 3. Comparação entre Fontes
+### 3. Comparação entre fontes
 > *"Compare como cada uma das fontes aborda **[tema]**. Identifique pontos em comum, diferenças de abordagem, possíveis divergências e indique quais fontes sustentam cada conclusão."*
 
 ---
 
-### 4. Tabela Comparativa
+### 4. Tabela comparativa
 > *"Analise **[tema]** sob diferentes perspectivas e organize a resposta em uma tabela comparativa, destacando vantagens, desafios e impactos para cada grupo envolvido."*
 
 ---
@@ -241,17 +241,17 @@ Os *prompts* abaixo foram desenvolvidos a partir da experiência adquirida neste
 
 ---
 
-### 6. Aplicações Práticas
+### 6. Aplicações práticas
 > *"Apresente exemplos práticos de aplicação de **[tema]**, explicando seus benefícios, riscos e possíveis impactos no dia a dia."*
 
 ---
 
-### 7. Questões para Revisão
+### 7. Questões para revisão
 > *"Elabore 10 questões sobre **[tema]**, alternando entre perguntas conceituais e de aplicação prática. Ao final, apresente o gabarito comentado e indique as fontes utilizadas."*
 
 ---
 
-### 8. Explicação para Diferentes Públicos
+### 8. Explicação para diferentes públicos
 > *"Explique **[tema]** para três públicos diferentes:
 > - Uma pessoa sem conhecimento prévio;
 > - Um estudante universitário;
@@ -261,12 +261,12 @@ Os *prompts* abaixo foram desenvolvidos a partir da experiência adquirida neste
 
 ---
 
-### 9. Tendências Futuras
+### 9. Tendências futuras
 > *"Com base nas fontes disponíveis, identifique as principais tendências relacionadas a **[tema]**, explicando seus possíveis impactos no curto, médio e longo prazo."*
 
 ---
 
-### 10. Glossário de Conceitos
+### 10. Glossário de conceitos
 > *"Crie um glossário com os principais conceitos relacionados a **[tema]**, apresentando uma definição simples, clara e objetiva para cada termo."*
 
 ## 💡 Aprendizados
