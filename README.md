@@ -191,10 +191,10 @@ A implementação do ecossistema no Brasil foi estruturada em 4 fases:
 ---
 
 #### 3. Participantes do Ecossistema
-O ecossistema é regulado pelo Banco Central e gerido por uma **Estrutura de Governança Definitiva**. As instituições atuam como Transmissoras de Dados, Receptoras de Dados, Provedoras de Conta ou Iniciadoras de Transação de Pagamento (ITPs):
+O ecossistema é regulado pelo Banco Central e gerido por uma Estrutura de Governança Definitiva. As instituições atuam como Transmissoras de Dados, Receptoras de Dados, Provedoras de Conta ou Iniciadoras de Transação de Pagamento (ITPs):
 
 * **Participantes Obrigatórios:** Grandes bancos (segmentos S1 e S2) e conglomerados com mais de 5 milhões de clientes ativos.
-* **Participantes Voluntários:** Demais instituições financeiras e de pagamento autorizadas pelo BCB, operando sob a **regra da reciprocidade** (quem recebe dados também deve estar apto a enviá-los).
+* **Participantes Voluntários:** Demais instituições financeiras e de pagamento autorizadas pelo BCB, operando sob a regra da reciprocidade (quem recebe dados também deve estar apto a enviá-los).
 
 ---
 
@@ -213,9 +213,9 @@ O ecossistema é regulado pelo Banco Central e gerido por uma **Estrutura de Gov
 ---
 
 #### 6. Perspectivas Futuras
-O Open Finance caminha para uma convergência estrutural com o **Pix** (Pix Automático e por aproximação) e com o **Drex** (Real Digital). Juntas, essas infraestruturas viabilizarão finanças autônomas, *pagamentos agênticos* e *smart contracts* (contratos inteligentes).
+O Open Finance caminha para uma convergência estrutural com o Pix (Pix Automático e por aproximação) e com o Drex (Real Digital). Juntas, essas infraestruturas viabilizarão finanças autônomas, *pagamentos agênticos* e *smart contracts* (contratos inteligentes).
 
-No médio e longo prazo, prevê-se a integração com o *Open Capital Markets* (junto à CVM), a evolução da portabilidade de salário e o uso intensivo de **IA Generativa** aplicada aos dados abertos para proporcionar hiperpersonalização de serviços financeiros em tempo real.
+No médio e longo prazo, prevê-se a integração com o *Open Capital Markets* (junto à CVM), a evolução da portabilidade de salário e o uso intensivo de IA Generativa aplicada aos dados abertos para proporcionar hiperpersonalização de serviços financeiros em tempo real.
 
 ### 📖 Glossário
 
