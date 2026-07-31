@@ -12,7 +12,7 @@
 - Engenharia de Prompts
 - Miniguia de Estudo
   - Resumos estruturados do assunto
-  - Glossário de conceitos - chave
+  - Glossário de conceitos-chave
   - Prompts reutilizáveis para revisão futura
 - Aprendizados
 
