@@ -167,9 +167,7 @@ No dia a dia, o Open Finance converte-se em melhorias palpáveis:
   
 ## 📘 Miniguia de estudos
 
-### 📌 Resumos
-
-### 📌 Resumos Estruturados do Assunto
+### 📌 Resumos estruturados
 
 #### 1. O que é o Open Finance?
 O Open Finance (Sistema Financeiro Aberto) é uma infraestrutura tecnológica e regulatória promovida pelo Banco Central do Brasil (BCB) que permite o compartilhamento padronizado de dados, produtos e serviços financeiros entre instituições autorizadas. 
