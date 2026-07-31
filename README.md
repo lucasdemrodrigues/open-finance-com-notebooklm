@@ -168,19 +168,19 @@ No dia a dia, o Open Finance converte-se em melhorias palpáveis:
 ## MINIGUIA DE ESTUDO
 
 
-## 📌 Resumos
+### 📌 Resumos
 
-### 1. A Regulação e o Ecossistema do BACEN
+#### 1. A Regulação e o Ecossistema do BACEN
 O Open Finance brasileiro é uma iniciativa regulada pelo Banco Central do Brasil que obriga o compartilhamento padronizado de dados e serviços financeiros entre instituições autorizadas, mediante o consentimento explícito e revogável do consumidor.
 
-### 2. Benefícios para Consumidores e Instituições
+#### 2. Benefícios para Consumidores e Instituições
 * **Consumidores:** Maior autonomia, comparabilidade de tarifas, portabilidade de crédito facilitada e produtos hiperpersonalizados.
 * **Instituições e Fintechs:** Acesso a histórico financeiro enriquecido para aprimoramento de modelos de score de crédito e estratégias de NBO (Next Best Offer).
 
-### 3. Gargalos e Desafios Atuais
+#### 3. Gargalos e Desafios Atuais
 Embora o Brasil seja referência mundial em adesão de pessoas físicas, a fricção em jornadas para PJs (alçadas de aprovação) e a resistência de parte da base quanto ao compartilhamento contínuo de dados ainda travam o pleno potencial do crédito B2B.
 
-## 📖 Glossário
+### 📖 Glossário
 
 | Conceito | Definição |
 | :--- | :--- |
@@ -190,7 +190,7 @@ Embora o Brasil seja referência mundial em adesão de pessoas físicas, a fric�
 | **JSR (Jornada Sem Redirecionamento)** | Experiência de pagamento/iniciação em que o cliente não precisa mudar de app para autorizar a transação. |
 | **ITP (Iniciador de Transação de Pagamento)** | Entidade regulada autorizada a iniciar pagamentos (ex: Pix) sem deter a custódia do dinheiro do cliente. |
 
-## 🔄 Prompts reutilizáveis
+### 🔄 Prompts reutilizáveis
 
 Estes prompts podem ser copiados e colados no NotebookLM para gerar revisões rápidas:
 
