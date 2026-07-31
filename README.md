@@ -285,4 +285,4 @@ Durante o desenvolvimento deste projeto, foi possível aprimorar:
 
 ---
 
-> 💡 **Nota:** este README foi escrito originalmente em português. Caso seu navegador utilize tradução automática, alguns termos técnicos, tabelas ou elementos de formatação podem ser alterados. Para a melhor experiência, recomenda-se visualizar a versão original do repositório.
+> **Nota:** este README foi escrito originalmente em português. Caso seu navegador utilize tradução automática, alguns termos técnicos, tabelas ou elementos de formatação podem ser alterados. Para a melhor experiência, recomenda-se visualizar a versão original do repositório.
