@@ -1,5 +1,4 @@
-<img width="1024" height="181" alt="watermarked_img_2152744428369261968" src="https://github.com/user-attachments/assets/19f53532-6dcb-4bb3-9551-1e951303d16c" />
-
+<img width="4400" height="777" alt="Imagem1" src="https://github.com/user-attachments/assets/e5dbfc0b-9fd2-4091-ac52-5777ca0c3cc1" />
 
 # 🏦 Miniguia de estudos: Open Finance no Brasil com NotebookLM
 
