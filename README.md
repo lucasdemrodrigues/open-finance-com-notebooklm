@@ -253,15 +253,14 @@ Estes prompts podem ser copiados e colados no NotebookLM para gerar revisões r�
 
 ## 💡 Aprendizados
 
-Durante este projeto foi possível desenvolver:
+Durante o desenvolvimento deste projeto, foi possível aprimorar:
 
-- Curadoria de fontes confiáveis;
-- Organização do conhecimento;
-- Engenharia de prompts;
-- Pensamento crítico sobre respostas de IA;
-- Documentação técnica em Markdown;
-- Uso do NotebookLM como ferramenta de aprendizagem.
-- Além dos conhecimentos sobre Open Finance, este projeto também permitiu aprofundar a organização de documentação em Markdown e experimentar recursos básicos de HTML para melhorar a apresentação visual do README.
+- Conhecimentos sobre Open Finance e seu impacto no sistema financeiro brasileiro;
+- Curadoria de fontes confiáveis e organização do conhecimento;
+- Engenharia de prompts para obter respostas mais precisas;
+- Uso do NotebookLM como ferramenta de aprendizagem ativa;
+- Pensamento crítico na análise e validação de respostas geradas por IA;
+- Documentação de projetos utilizando Markdown e GitHub.
 
 ---
 
