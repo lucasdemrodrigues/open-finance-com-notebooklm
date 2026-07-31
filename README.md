@@ -213,3 +213,7 @@ Durante este projeto foi possível desenvolver:
 - Documentação técnica em Markdown;
 - Uso do NotebookLM como ferramenta de aprendizagem.
 - Além dos conhecimentos sobre Open Finance, este projeto também permitiu aprofundar a organização de documentação em Markdown e experimentar recursos básicos de HTML para melhorar a apresentação visual do README.
+
+---
+
+> 💡 **Nota de Visualização:** Este README foi escrito originalmente em português. Caso seu navegador utilize tradução automática, alguns termos técnicos, tabelas ou elementos de formatação podem ser alterados. Para a melhor experiência, recomenda-se visualizar a versão original do repositório.
