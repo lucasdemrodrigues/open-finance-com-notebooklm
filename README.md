@@ -12,6 +12,7 @@
 - Objetivo
 - Curadoria de fontes
 - Engenharia de prompts
+- Cicatrizes (Troubleshooting)
 - Miniguia de estudos
     - Resumos estruturados
     - Glossário
