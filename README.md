@@ -23,7 +23,7 @@
 
 Este projeto foi desenvolvido como parte do Bootcamp Santander em parceria com a DIO, explorando o uso do NotebookLM como ferramenta de apoio à aprendizagem ativa.
 
-O tema escolhido foi Open Finance, uma iniciativa que vem transformando o sistema financeiro brasileiro por meio do compartilhamento seguro de dados, permitindo novas experiências para consumidores, instituições financeiras e fintechs.
+O tema escolhido foi Open Finance, uma iniciativa que vem transformando o sistema financeiro brasileiro por meio do compartilhamento seguro de dados, possibilitando novas experiências para consumidores, instituições financeiras e fintechs.
 
 ## 🎯 Objetivo
 
@@ -279,7 +279,7 @@ Durante o desenvolvimento deste projeto, foi possível aprimorar:
 - Curadoria de fontes confiáveis e organização do conhecimento;
 - Engenharia de prompts para obter respostas mais precisas;
 - Uso do NotebookLM como ferramenta de aprendizagem ativa;
-- Pensamento crítico na análise e validação de respostas geradas por IA;
+- Pensamento crítico para analisar e validar respostas;
 - Documentação de projetos utilizando Markdown e GitHub.
 
 ---
@@ -287,4 +287,4 @@ Durante o desenvolvimento deste projeto, foi possível aprimorar:
 <img width="2752" height="1536" alt="Revolução_do_Open_Finance_Brasil" src="https://github.com/user-attachments/assets/1db802d7-a0a2-4f00-9434-4fc029ea7c85" />
 
 
-> **Nota:** este README foi escrito originalmente em português. Caso seu navegador utilize tradução automática, alguns termos técnicos, tabelas ou elementos de formatação podem ser alterados. Para a melhor experiência, recomenda-se visualizar a versão original do repositório.
+> **Observação:** este README foi escrito originalmente em português. Caso seu navegador utilize tradução automática, alguns termos técnicos, tabelas ou elementos de formatação podem ser alterados. Para a melhor experiência, recomenda-se visualizar a versão original do repositório.
