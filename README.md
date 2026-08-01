@@ -1,3 +1,4 @@
+<img width="2752" height="1536" alt="Revolução_do_Open_Finance_Brasil" src="https://github.com/user-attachments/assets/b74327ac-dc7b-4f23-9ce7-a2f2bea8eda6" />
 <img width="4400" height="777" alt="Imagem1" src="https://github.com/user-attachments/assets/e5dbfc0b-9fd2-4091-ac52-5777ca0c3cc1" />
 
 # Miniguia de estudos: Open Finance no Brasil com NotebookLM
@@ -282,5 +283,8 @@ Durante o desenvolvimento deste projeto, foi possível aprimorar:
 - Documentação de projetos utilizando Markdown e GitHub.
 
 ---
+
+<img width="2752" height="1536" alt="Revolução_do_Open_Finance_Brasil" src="https://github.com/user-attachments/assets/1db802d7-a0a2-4f00-9434-4fc029ea7c85" />
+
 
 > **Nota:** este README foi escrito originalmente em português. Caso seu navegador utilize tradução automática, alguns termos técnicos, tabelas ou elementos de formatação podem ser alterados. Para a melhor experiência, recomenda-se visualizar a versão original do repositório.
