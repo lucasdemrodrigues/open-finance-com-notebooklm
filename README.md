@@ -59,12 +59,12 @@ Durante o desenvolvimento deste projeto, foram realizados diferentes testes de p
 ### Prompt 1 — Consulta exploratória inicial
 
 * **Objetivo:** Compreender o conceito de Open Finance e obter uma visão geral sobre o tema.
-* **Prompt Utilizado:**
+* **Prompt utilizado:**
   > *"O que é Open Finance?"*
-* **Resumo da Resposta:** O NotebookLM apresentou uma definição introdutória do Open Finance, explicando seu papel no sistema financeiro brasileiro, seus principais objetivos e alguns benefícios para consumidores e instituições financeiras.
-* **Fontes Utilizadas:** Open Finance – Banco Central do Brasil
-* **Limitações Identificadas:** Embora correta, a resposta foi bastante introdutória. Faltaram informações sobre regulamentação, participantes do ecossistema e diferenças entre Open Finance e Open Banking.
-* **Refinamento Realizado:** O prompt foi aprimorado para delimitar o contexto brasileiro e solicitar tópicos específicos, como regulamentação, participantes e funcionamento do sistema.
+* **Resumo da resposta:** O NotebookLM apresentou uma definição introdutória do Open Finance, explicando seu papel no sistema financeiro brasileiro, seus principais objetivos e alguns benefícios para consumidores e instituições financeiras.
+* **Fontes utilizadas:** Open Finance – Banco Central do Brasil
+* **Limitações identificadas:** Embora correta, a resposta foi bastante introdutória. Faltaram informações sobre regulamentação, participantes do ecossistema e diferenças entre Open Finance e Open Banking.
+* **Refinamento realizado:** O prompt foi aprimorado para delimitar o contexto brasileiro e solicitar tópicos específicos, como regulamentação, participantes e funcionamento do sistema.
 * **Aprendizado:** Prompts mais específicos e contextualizados tendem a gerar respostas mais completas e alinhadas ao objetivo do estudo.
 
 ---
@@ -72,7 +72,7 @@ Durante o desenvolvimento deste projeto, foram realizados diferentes testes de p
 ### Prompt 2 — Organização do conteúdo
 
 * **Objetivo:** Organizar as informações em tópicos para facilitar a compreensão e a revisão do conteúdo.
-* **Prompt Utilizado:**
+* **Prompt utilizado:**
   > *"Resuma de forma estruturada:*  
   > *- O que é Open Finance?*  
   > *- Como funciona?*  
@@ -80,12 +80,12 @@ Durante o desenvolvimento deste projeto, foram realizados diferentes testes de p
   > *- Benefícios.*  
   > *- Desafios.*  
   > *- Perspectivas futuras."*
-* **Resumo da Resposta:** O NotebookLM organizou o conteúdo nos tópicos solicitados, abordando desde os conceitos fundamentais até os desafios atuais e as perspectivas futuras do Open Finance no Brasil.
-* **Fontes Utilizadas:** 
+* **Resumo da resposta:** O NotebookLM organizou o conteúdo nos tópicos solicitados, abordando desde os conceitos fundamentais até os desafios atuais e as perspectivas futuras do Open Finance no Brasil.
+* **Fontes utilizadas:** 
   * *A Transformação Estrutural do Sistema Financeiro Brasileiro pelo Open Finance: Análise sobre Inclusão, Competitividade e Convergência Tecnológica*
   * *Open Finance para empresas patina em burocracia e trava crédito mais barato*
-* **Limitações Identificadas:** Apesar da boa organização, a linguagem utilizada ficou muito próxima dos documentos técnicos originais, tornando a leitura menos fluida para um guia de estudos.
-* **Refinamento Realizado:** Foi solicitado que a resposta utilizasse uma linguagem mais didática, semelhante a um guia de estudos, mantendo o rigor técnico das informações.
+* **Limitações identificadas:** Apesar da boa organização, a linguagem utilizada ficou muito próxima dos documentos técnicos originais, tornando a leitura menos fluida para um guia de estudos.
+* **Refinamento realizado:** Foi solicitado que a resposta utilizasse uma linguagem mais didática, semelhante a um guia de estudos, mantendo o rigor técnico das informações.
 * **Aprendizado:** Além de definir o conteúdo desejado, especificar o estilo da resposta contribui para produzir materiais mais claros e adequados ao público-alvo.
 
 ---
@@ -93,7 +93,7 @@ Durante o desenvolvimento deste projeto, foram realizados diferentes testes de p
 ### Prompt 3 — Ajuste de linguagem e formatação
 
 * **Objetivo:** Transformar o conteúdo técnico em um guia de estudos organizado, utilizando linguagem mais acessível e uma estrutura padronizada.
-* **Prompt Utilizado:**
+* **Prompt utilizado:**
   > *"Escreva um resumo estruturado que seja mais parecido com um guia de estudos, e não com um relatório técnico. Organize a resposta utilizando os seguintes tópicos:*  
   > *- O que é o Open Finance?*  
   > *- Por que o Open Finance surgiu?*  
@@ -102,13 +102,13 @@ Durante o desenvolvimento deste projeto, foram realizados diferentes testes de p
   > *- Quais são os benefícios do Open Finance?*  
   > *- Quais são os principais desafios?*  
   > *- Qual é o futuro do Open Finance?"*
-* **Resumo da Resposta:** O NotebookLM apresentou o conteúdo em formato de guia de estudos, utilizando linguagem mais clara, títulos bem definidos e recursos de formatação que facilitaram a leitura e a revisão do material.
-* **Fontes Utilizadas:**
+* **Resumo da resposta:** O NotebookLM apresentou o conteúdo em formato de guia de estudos, utilizando linguagem mais clara, títulos bem definidos e recursos de formatação que facilitaram a leitura e a revisão do material.
+* **Fontes utilizadas:**
   * *A Transformação Estrutural do Sistema Financeiro Brasileiro pelo Open Finance*
   * *Como o Open Finance está mudando a análise de crédito no Brasil*
   * *Open Finance para empresas patina em burocracia e trava crédito mais barato*
-* **Limitações Identificadas:** A resposta atendeu ao objetivo proposto e não exigiu novos ajustes estruturais.
-* **Refinamento Realizado:** A estratégia foi reutilizada na elaboração do glossário de conceitos-chave.
+* **Limitações identificadas:** A resposta atendeu ao objetivo proposto e não exigiu novos ajustes estruturais.
+* **Refinamento realizado:** A estratégia foi reutilizada na elaboração do glossário de conceitos-chave.
 * **Aprendizado:** Definir claramente o formato, a estrutura e o estilo esperado da resposta permite obter resultados consistentes e prontos para uso.
   
 ---
