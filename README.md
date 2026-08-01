@@ -17,6 +17,7 @@
     - Resumos estruturados
     - Glossário
     - Prompts reutilizáveis
+- Infográfico
 - Aprendizados
 
 ## 🌐 Contexto
@@ -271,6 +272,14 @@ Os *prompts* abaixo foram desenvolvidos a partir da experiência adquirida neste
 ### 10. 🏷️ Glossário de conceitos
 > *"Crie um glossário com os principais conceitos relacionados a **[tema]**, apresentando uma definição simples, clara e objetiva para cada termo."*
 
+## 📊 Infográfico
+
+Durante este projeto, explorei diferentes formatos de saída oferecidos pelo NotebookLM, como apresentações, vídeos, áudios e mapas mentais, entre outros recursos.
+
+Como exemplo, apresento abaixo o infográfico gerado a partir das fontes utilizadas neste caderno temático.
+
+<img width="2752" height="1536" alt="Revolução_do_Open_Finance_Brasil" src="https://github.com/user-attachments/assets/1db802d7-a0a2-4f00-9434-4fc029ea7c85" />
+
 ## 💡 Aprendizados
 
 Durante o desenvolvimento deste projeto, foi possível aprimorar:
@@ -283,8 +292,5 @@ Durante o desenvolvimento deste projeto, foi possível aprimorar:
 - Documentação de projetos utilizando Markdown e GitHub.
 
 ---
-
-<img width="2752" height="1536" alt="Revolução_do_Open_Finance_Brasil" src="https://github.com/user-attachments/assets/1db802d7-a0a2-4f00-9434-4fc029ea7c85" />
-
 
 > **Observação:** este README foi escrito originalmente em português. Caso seu navegador utilize tradução automática, alguns termos técnicos, tabelas ou elementos de formatação podem ser alterados. Para a melhor experiência, recomenda-se visualizar a versão original do repositório.
