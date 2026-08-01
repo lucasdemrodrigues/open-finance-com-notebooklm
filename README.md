@@ -138,7 +138,7 @@ Ele é a evolução direta do *Open Banking*: enquanto o modelo anterior focava 
 #### 2. Por que o Open Finance surgiu?
 O sistema financeiro brasileiro era historicamente muito concentrado, fazendo com que os grandes bancos detivessem o monopólio das informações financeiras de seus clientes. Esse "empoçamento" de dados dificultava a entrada de concorrentes e impedia que os clientes conseguissem ofertas melhores em outras instituições.
 
-O Banco Central desenhou o Open Finance como uma política pública para:
+O Banco Central implementou o Open Finance como uma política pública para:
 * **Promover a concorrência:** Quebrar a assimetria de informações para que novos entrantes e *fintechs* possam disputar clientes de forma justa.
 * **Aumentar a eficiência e inovação:** Incentivar a criação de novos modelos de negócios e soluções financeiras no Brasil.
 * **Impulsionar a cidadania financeira:** Incluir a população e facilitar o acesso a crédito mais adequado e barato.
