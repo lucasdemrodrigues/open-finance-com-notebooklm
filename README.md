@@ -21,13 +21,13 @@
 
 ## 🌐 Contexto
 
-Este projeto foi desenvolvido como parte do Bootcamp Santander em parceria com a DIO, explorando o uso do NotebookLM como ferramenta de aprendizagem ativa.
+Este projeto foi desenvolvido como parte do Bootcamp Santander em parceria com a DIO, explorando o uso do NotebookLM como ferramenta de apoio à aprendizagem ativa.
 
 O tema escolhido foi Open Finance, uma iniciativa que vem transformando o sistema financeiro brasileiro por meio do compartilhamento seguro de dados, permitindo novas experiências para consumidores, instituições financeiras e fintechs.
 
 ## 🎯 Objetivo
 
-Compreender como o Open Finance está transformando o sistema financeiro brasileiro, explorando seus benefícios, desafios, regulamentação e impactos para consumidores, instituições financeiras e fintechs.
+Compreender o funcionamento do Open Finance no Brasil, analisando sua regulamentação, seus benefícios, desafios e impactos para consumidores, instituições financeiras e fintechs.
 
 ## 📚 Curadoria de fontes
 
