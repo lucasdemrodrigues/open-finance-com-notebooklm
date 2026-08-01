@@ -195,7 +195,7 @@ Os participantes assumem diferentes papéis:
 
 | Termo | Definição |
 | :--- | :--- |
-| **API (Interface de Programação de Aplicativos)** | Tecnologia segura que permite a comunicação e a integração padronizada entre os sistemas de diferentes instituições financeiras, sem centralizar as informações. |
+| **API (Application Programming Interface)** | Tecnologia segura que permite a comunicação e a integração padronizada entre os sistemas de diferentes instituições financeiras, sem centralizar as informações. |
 | **Associação Open Finance** | Estrutura de governança gerida por instituições participantes e supervisionada pelo Banco Central, responsável por definir os padrões técnicos, operacionais e de segurança, além de monitorar o ecossistema. |
 | **Consentimento** | Autorização prévia, livre, informada e inequívoca do cliente (por meios eletrônicos) para compartilhar seus dados ou iniciar um pagamento. Tem prazo de validade (até 12 meses), finalidade específica e pode ser revogado a qualquer momento. |
 | **Drex (Real Digital)** | Representação oficial em formato digital (tokenizado) da moeda soberana brasileira, operando em rede segura que permite a criação de *smart contracts* para automação de transações. |
