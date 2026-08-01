@@ -112,7 +112,7 @@ Durante o desenvolvimento deste projeto, foram realizados diferentes testes de p
   
 ---
 
-## Cicatrizes (Troubleshooting)
+## 🛠️ Cicatrizes (Troubleshooting)
 
 Durante os testes com o NotebookLM, foram identificados alguns desafios e oportunidades de melhoria:
 
