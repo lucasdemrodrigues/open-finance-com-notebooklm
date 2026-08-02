@@ -276,7 +276,7 @@ Os *prompts* abaixo foram desenvolvidos a partir da experiência adquirida neste
 
 Nesta atividade, explorei diferentes formatos de saída oferecidos pelo NotebookLM, como apresentações, vídeos, áudios e mapas mentais, entre outros recursos.
 
-Como exemplo, apresento abaixo o infográfico gerado a partir das fontes selecionadas neste caderno temático.
+Como exemplo, apresento abaixo o infográfico gerado a partir das fontes selecionadas para este caderno temático.
 
 <img width="2752" height="1536" alt="Revolução_do_Open_Finance_Brasil" src="https://github.com/user-attachments/assets/1db802d7-a0a2-4f00-9434-4fc029ea7c85" />
 
