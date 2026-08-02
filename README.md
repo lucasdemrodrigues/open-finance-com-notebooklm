@@ -63,7 +63,7 @@ Ao longo desta atividade, foram realizados diferentes testes de prompts no Noteb
 * **Prompt utilizado:**
   > *"O que é Open Finance?"*
 * **Resumo da resposta:** O NotebookLM apresentou uma definição introdutória do Open Finance, explicando seu papel no sistema financeiro brasileiro, seus principais objetivos e alguns benefícios para consumidores e instituições financeiras.
-* **Fontes utilizadas:** Open Finance – Banco Central do Brasil
+* **Fontes:** Open Finance – Banco Central do Brasil
 * **Limitações identificadas:** Embora correta, a resposta foi bastante introdutória. Faltaram informações sobre regulamentação, participantes do ecossistema e diferenças entre Open Finance e Open Banking.
 * **Refinamento realizado:** O prompt foi aprimorado para delimitar o contexto brasileiro e solicitar tópicos específicos, como regulamentação, participantes e funcionamento do sistema.
 * **Aprendizado:** Prompts mais específicos e contextualizados tendem a gerar respostas mais completas e alinhadas ao objetivo do estudo.
@@ -82,7 +82,7 @@ Ao longo desta atividade, foram realizados diferentes testes de prompts no Noteb
   > *- Desafios.*  
   > *- Perspectivas futuras."*
 * **Resumo da resposta:** O NotebookLM organizou o conteúdo nos tópicos solicitados, abordando desde os conceitos fundamentais até os desafios atuais e as perspectivas futuras do Open Finance no Brasil.
-* **Fontes utilizadas:** 
+* **Fontes:** 
   * *A Transformação Estrutural do Sistema Financeiro Brasileiro pelo Open Finance: Análise sobre Inclusão, Competitividade e Convergência Tecnológica*
   * *Open Finance para empresas patina em burocracia e trava crédito mais barato*
 * **Limitações identificadas:** Apesar da boa organização, a linguagem utilizada ficou muito próxima dos documentos técnicos originais, tornando a leitura menos fluida para um guia de estudos.
@@ -104,7 +104,7 @@ Ao longo desta atividade, foram realizados diferentes testes de prompts no Noteb
   > *- Quais são os principais desafios?*  
   > *- Qual é o futuro do Open Finance?"*
 * **Resumo da resposta:** O NotebookLM apresentou o conteúdo em formato de guia de estudos, utilizando linguagem mais clara, títulos bem definidos e recursos de formatação que facilitaram a leitura e a revisão do material.
-* **Fontes utilizadas:**
+* **Fontes:**
   * *A Transformação Estrutural do Sistema Financeiro Brasileiro pelo Open Finance*
   * *Como o Open Finance está mudando a análise de crédito no Brasil*
   * *Open Finance para empresas patina em burocracia e trava crédito mais barato*
@@ -276,7 +276,7 @@ Os *prompts* abaixo foram desenvolvidos a partir da experiência adquirida neste
 
 Nesta atividade, explorei diferentes formatos de saída oferecidos pelo NotebookLM, como apresentações, vídeos, áudios e mapas mentais, entre outros recursos.
 
-Como exemplo, apresento abaixo o infográfico gerado a partir das fontes utilizadas neste caderno temático.
+Como exemplo, apresento abaixo o infográfico gerado a partir das fontes selecionadas neste caderno temático.
 
 <img width="2752" height="1536" alt="Revolução_do_Open_Finance_Brasil" src="https://github.com/user-attachments/assets/1db802d7-a0a2-4f00-9434-4fc029ea7c85" />
 
