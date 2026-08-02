@@ -22,7 +22,7 @@
 
 ## 🌐 Contexto
 
-Este projeto foi desenvolvido como parte do Bootcamp Santander em parceria com a DIO, explorando o uso do NotebookLM como ferramenta de apoio à aprendizagem ativa.
+Este repositório foi desenvolvido como parte do Bootcamp Santander em parceria com a DIO, explorando o uso do NotebookLM como ferramenta de apoio à aprendizagem ativa.
 
 O tema escolhido foi Open Finance, uma iniciativa que vem transformando o sistema financeiro brasileiro por meio do compartilhamento seguro de dados, possibilitando novas experiências para consumidores, instituições financeiras e fintechs.
 
@@ -55,7 +55,7 @@ Para garantir a acurácia técnica do NotebookLM, selecionei 11 fontes de alta a
 
 ## 🧠 Engenharia de prompts
 
-Durante o desenvolvimento deste projeto, foram realizados diferentes testes de prompts no NotebookLM com o objetivo de obter respostas cada vez mais completas, organizadas e alinhadas aos objetivos de estudo.
+Ao longo desta atividade, foram realizados diferentes testes de prompts no NotebookLM com o objetivo de obter respostas cada vez mais completas, organizadas e alinhadas aos objetivos do estudo.
 
 ### Prompt 1 — Consulta exploratória inicial
 
@@ -274,7 +274,7 @@ Os *prompts* abaixo foram desenvolvidos a partir da experiência adquirida neste
 
 ## 📊 Infográfico
 
-Durante este projeto, explorei diferentes formatos de saída oferecidos pelo NotebookLM, como apresentações, vídeos, áudios e mapas mentais, entre outros recursos.
+Nesta atividade, explorei diferentes formatos de saída oferecidos pelo NotebookLM, como apresentações, vídeos, áudios e mapas mentais, entre outros recursos.
 
 Como exemplo, apresento abaixo o infográfico gerado a partir das fontes utilizadas neste caderno temático.
 
@@ -282,7 +282,7 @@ Como exemplo, apresento abaixo o infográfico gerado a partir das fontes utiliza
 
 ## 💡 Aprendizados
 
-Durante o desenvolvimento deste projeto, foi possível aprimorar:
+Ao longo deste trabalho, foi possível aprimorar:
 
 - Conhecimentos sobre Open Finance e seu impacto no sistema financeiro brasileiro;
 - Curadoria de fontes confiáveis e organização do conhecimento;
