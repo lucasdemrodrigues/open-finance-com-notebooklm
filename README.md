@@ -125,7 +125,7 @@ Durante os testes, foram identificados alguns desafios e oportunidades de melhor
 * **Prompts genéricos:** Produziram respostas corretas, porém superficiais. Adicionar contexto delimitado (*"no cenário brasileiro sob as normas do BCB"*) elevou a qualidade das respostas.
 * **Fidelidade às fontes:** Solicitar que a IA utilizasse apenas as fontes adicionadas (*grounding*) aumentou a confiabilidade das informações e evitou alucinações.
 * **Formatação de saída:** Definir o formato esperado (tabelas, listas ou tópicos estruturados) facilitou a organização direta do conteúdo no README.
-* **Estilo e tom de voz:** Ajustar o estilo da resposta para um formato de *"guia de estudos"* tornou o material mais claro e adequado ao objetivo do projeto.
+* **Estilo e tom de voz:** Ajustar o estilo da resposta para um formato de *"guia de estudos"* tornou o material mais claro e adequado ao público-alvo.
 
 ---
   
