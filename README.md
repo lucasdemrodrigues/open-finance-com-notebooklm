@@ -12,7 +12,7 @@
 - [Objetivo](#-objetivo)
 - [Curadoria de fontes](#-curadoria-de-fontes)
 - [Engenharia de prompts](#-engenharia-de-prompts)
-- [Cicatrizes (troubleshooting)](#-cicatrizes-troubleshooting)
+- [Cicatrizes (troubleshooting)](#cicatrizes-troubleshooting)
 - [Miniguia de estudos](#-miniguia-de-estudos)
     - [Resumos estruturados](#-resumos-estruturados)
     - [Glossário](#-glossário)
@@ -113,6 +113,8 @@ Ao longo desta atividade, foram realizados diferentes testes de prompts no Noteb
 * **Aprendizado:** Definir claramente o formato, a estrutura e o estilo esperado da resposta permite obter resultados consistentes e prontos para uso.
   
 ---
+
+<a id="cicatrizes-troubleshooting"></a>
 
 ## 🛠️ Cicatrizes (troubleshooting)
 
