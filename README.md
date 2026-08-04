@@ -66,7 +66,7 @@ Ao longo desta atividade, realizei diferentes testes de prompts no NotebookLM pa
   > *"O que é Open Finance?"*
 * **Resumo da resposta:** A consulta apresentou uma definição introdutória do Open Finance, explicando seu papel no sistema financeiro brasileiro, seus principais objetivos e alguns benefícios para consumidores e instituições financeiras.
 * **Fontes:** Open Finance – Banco Central do Brasil
-* **Limitações identificadas:** Embora correta, a resposta foi bastante introdutória. Faltaram informações sobre regulamentação, participantes do ecossistema e diferenças entre Open Finance e Open Banking.
+* **Limitações identificadas:** Embora correta, a explicação foi bastante introdutória. Faltaram informações sobre regulamentação, participantes do ecossistema e diferenças entre Open Finance e Open Banking.
 * **Refinamento realizado:** O prompt foi aprimorado para delimitar o contexto brasileiro e solicitar tópicos específicos, como regulamentação, participantes e funcionamento do sistema.
 * **Aprendizado:** Prompts mais específicos e contextualizados tendem a gerar respostas mais completas e alinhadas ao objetivo do estudo.
 
