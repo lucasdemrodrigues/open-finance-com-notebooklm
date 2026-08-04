@@ -34,7 +34,7 @@ Compreender o funcionamento do Open Finance no Brasil, analisando sua regulament
 
 ## 📚 Curadoria de fontes
 
-Para garantir a acurácia técnica do NotebookLM, selecionei 11 fontes de alta autoridade e diversidade metodológica, contemplando conteúdos em texto e vídeo de órgãos reguladores, instituições financeiras, especialistas do setor, entidades do consumidor e portais de notícias especializados:
+Para aumentar a confiabilidade das análises, selecionei 11 fontes de alta autoridade e diversidade metodológica, contemplando conteúdos em texto e vídeo de órgãos reguladores, instituições financeiras, especialistas do setor, entidades do consumidor e portais de notícias especializados:
 
 ### 📄 Textos:
 - 🏛️ **[Página Oficial do Open Finance — Banco Central do Brasil (BCB)](https://www.bcb.gov.br/estabilidadefinanceira/openfinance):** Documentação técnica e regulatória oficial sobre os pilares, diretrizes e funcionamento do ecossistema no Brasil.
@@ -64,7 +64,7 @@ Ao longo desta atividade, foram realizados diferentes testes de prompts no Noteb
 * **Objetivo:** Compreender o conceito de Open Finance e obter uma visão geral sobre o tema.
 * **Prompt utilizado:**
   > *"O que é Open Finance?"*
-* **Resumo da resposta:** O NotebookLM apresentou uma definição introdutória do Open Finance, explicando seu papel no sistema financeiro brasileiro, seus principais objetivos e alguns benefícios para consumidores e instituições financeiras.
+* **Resumo da resposta:** Foi apresentada uma definição introdutória do Open Finance, explicando seu papel no sistema financeiro brasileiro, seus principais objetivos e alguns benefícios para consumidores e instituições financeiras.
 * **Fontes:** Open Finance – Banco Central do Brasil
 * **Limitações identificadas:** Embora correta, a resposta foi bastante introdutória. Faltaram informações sobre regulamentação, participantes do ecossistema e diferenças entre Open Finance e Open Banking.
 * **Refinamento realizado:** O prompt foi aprimorado para delimitar o contexto brasileiro e solicitar tópicos específicos, como regulamentação, participantes e funcionamento do sistema.
@@ -83,7 +83,7 @@ Ao longo desta atividade, foram realizados diferentes testes de prompts no Noteb
   > *- Benefícios.*  
   > *- Desafios.*  
   > *- Perspectivas futuras."*
-* **Resumo da resposta:** O NotebookLM organizou o conteúdo nos tópicos solicitados, abordando desde os conceitos fundamentais até os desafios atuais e as perspectivas futuras do Open Finance no Brasil.
+* **Resumo da resposta:** O conteúdo foi organizado nos tópicos solicitados, abordando desde os conceitos fundamentais até os desafios atuais e as perspectivas futuras do Open Finance no Brasil.
 * **Fontes:** 
   * *A Transformação Estrutural do Sistema Financeiro Brasileiro pelo Open Finance: Análise sobre Inclusão, Competitividade e Convergência Tecnológica*
   * *Open Finance para empresas patina em burocracia e trava crédito mais barato*
@@ -105,7 +105,7 @@ Ao longo desta atividade, foram realizados diferentes testes de prompts no Noteb
   > *- Quais são os benefícios do Open Finance?*  
   > *- Quais são os principais desafios?*  
   > *- Qual é o futuro do Open Finance?"*
-* **Resumo da resposta:** O NotebookLM apresentou o conteúdo em formato de guia de estudos, utilizando linguagem mais clara, títulos bem definidos e recursos de formatação que facilitaram a leitura e a revisão do material.
+* **Resumo da resposta:** O material foi apresentado em formato de guia de estudos, utilizando linguagem mais clara, títulos bem definidos e recursos de formatação que facilitaram a leitura e a revisão do material.
 * **Fontes:**
   * *A Transformação Estrutural do Sistema Financeiro Brasileiro pelo Open Finance*
   * *Como o Open Finance está mudando a análise de crédito no Brasil*
