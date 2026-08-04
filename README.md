@@ -216,7 +216,7 @@ Os participantes assumem diferentes papéis:
 
 ### 🔄 Prompts reutilizáveis
 
-Os *prompts* abaixo foram desenvolvidos a partir da experiência adquirida neste projeto e funcionam como um *framework* adaptável para estudar o Open Finance ou qualquer outro tema utilizando o NotebookLM.
+Os prompts abaixo foram desenvolvidos a partir da experiência adquirida neste projeto e funcionam como um framework adaptável para estudar diferentes temas com ferramentas de IA baseadas em fontes, como o NotebookLM.
 
 > **Como utilizar:** copie o prompt desejado e substitua [tema] pelo assunto que deseja estudar (por exemplo: Open Finance no Brasil, Pix Automático ou LGPD e Segurança Bancária).
 
