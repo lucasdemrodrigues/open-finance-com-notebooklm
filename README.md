@@ -1,3 +1,5 @@
+<a id="inicio"></a>
+
 <img width="4400" height="777" alt="Imagem1" src="https://github.com/user-attachments/assets/e5dbfc0b-9fd2-4091-ac52-5777ca0c3cc1" />
 
 # Miniguia de estudos: Open Finance no Brasil com NotebookLM
@@ -292,6 +294,8 @@ Ao longo deste projeto, foi possível aprimorar:
 - Uso do NotebookLM como ferramenta de aprendizagem ativa;
 - Pensamento crítico para analisar e validar respostas;
 - Documentação de projetos utilizando Markdown e GitHub.
+
+[⬆️ Voltar ao início](#inicio)
 
 ---
 
