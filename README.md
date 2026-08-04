@@ -8,17 +8,17 @@
 
 ## 📑 Índice
 
-- [Contexto](#contexto)
-- [Objetivo](#objetivo)
-- [Curadoria de fontes](#curadoria-de-fontes)
-- [Engenharia de prompts](#engenharia-de-prompts)
-- [Cicatrizes (troubleshooting)](#cicatrizes-troubleshooting)
-- [Miniguia de estudos](#miniguia-de-estudos)
-    - [Resumos estruturados](#resumos-estruturados)
-    - [Glossário](#glossário)
-    - [Prompts reutilizáveis](#prompts-reutilizáveis)
-- [Infográfico](#infográfico)
-- [Aprendizados](#aprendizados)
+- [Contexto](#-contexto)
+- [Objetivo](#-objetivo)
+- [Curadoria de fontes](#-curadoria-de-fontes)
+- [Engenharia de prompts](#-engenharia-de-prompts)
+- [Cicatrizes (troubleshooting)](#-cicatrizes-troubleshooting)
+- [Miniguia de estudos](#-miniguia-de-estudos)
+    - [Resumos estruturados](#-resumos-estruturados)
+    - [Glossário](#-glossário)
+    - [Prompts reutilizáveis](#-prompts-reutilizáveis)
+- [Infográfico](#-infográfico)
+- [Aprendizados](#-aprendizados)
 
 ## 🌐 Contexto
 
