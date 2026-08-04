@@ -8,17 +8,17 @@
 
 ## 📑 Índice
 
-- Contexto
-- Objetivo
-- Curadoria de fontes
-- Engenharia de prompts
-- Cicatrizes (troubleshooting)
-- Miniguia de estudos
-    - Resumos estruturados
-    - Glossário
-    - Prompts reutilizáveis
-- Infográfico
-- Aprendizados
+- [Contexto](#contexto)
+- [Objetivo](#objetivo)
+- [Curadoria de fontes](#curadoria-de-fontes)
+- [Engenharia de prompts](#engenharia-de-prompts)
+- [Cicatrizes (troubleshooting)](#cicatrizes-troubleshooting)
+- [Miniguia de estudos](#miniguia-de-estudos)
+    - [Resumos estruturados](#resumos-estruturados)
+    - [Glossário](#glossário)
+    - [Prompts reutilizáveis](#prompts-reutilizáveis)
+- [Infográfico](#infográfico)
+- [Aprendizados](#aprendizados)
 
 ## 🌐 Contexto
 
