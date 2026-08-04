@@ -286,7 +286,7 @@ Como exemplo, apresento abaixo o infográfico gerado a partir das fontes selecio
 
 ## 💡 Aprendizados
 
-Ao longo deste projeto, foi possível aprimorar:
+Ao longo deste projeto, pude aprimorar:
 
 - Conhecimentos sobre Open Finance e seu impacto no sistema financeiro brasileiro;
 - Curadoria de fontes confiáveis e organização do conhecimento;
