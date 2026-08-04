@@ -74,7 +74,7 @@ Ao longo desta atividade, realizei diferentes testes de prompts no NotebookLM pa
 
 ### Prompt 2 — Organização do conteúdo
 
-* **Objetivo:** Organizar as informações em tópicos para facilitar a compreensão e a revisão do conteúdo.
+* **Objetivo:** Organizar as informações em tópicos para facilitar a compreensão e a revisão.
 * **Prompt utilizado:**
   > *"Resuma de forma estruturada:*  
   > *- O que é Open Finance?*  
