@@ -88,8 +88,8 @@ Ao longo desta atividade, realizei diferentes testes de prompts no NotebookLM pa
   * *A Transformação Estrutural do Sistema Financeiro Brasileiro pelo Open Finance: Análise sobre Inclusão, Competitividade e Convergência Tecnológica*
   * *Open Finance para empresas patina em burocracia e trava crédito mais barato*
 * **Limitações identificadas:** Apesar da boa organização, a linguagem utilizada ficou muito próxima dos documentos técnicos originais, tornando a leitura menos fluida para um guia de estudos.
-* **Refinamento realizado:** Foi solicitado um tom mais didático, semelhante ao de um guia de estudos, mantendo o rigor técnico das informações.
-* **Aprendizado:** Além de delimitar os tópicos que deveriam ser abordados, especificar o estilo desejado contribuiu para produzir materiais mais claros e adequados ao público-alvo.
+* **Refinamento realizado:** Foi solicitado um tom mais didático, semelhante ao de um guia de estudos, sem comprometer o rigor técnico das informações.
+* **Aprendizado:** Delimitar os tópicos e especificar o estilo desejado contribuiu para produzir materiais mais claros e adequados ao público-alvo.
 
 ---
 
