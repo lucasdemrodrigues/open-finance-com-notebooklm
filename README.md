@@ -57,7 +57,7 @@ Para aumentar a confiabilidade das análises, selecionei 11 fontes de alta autor
 
 ## 🧠 Engenharia de prompts
 
-Ao longo desta atividade, foram realizados diferentes testes de prompts no NotebookLM com o objetivo de obter respostas cada vez mais completas, organizadas e alinhadas aos objetivos do estudo.
+Ao longo desta atividade, foram realizados diferentes testes de prompts no NotebookLM com o objetivo de obter resultados cada vez mais completos, organizados e alinhados aos objetivos do estudo.
 
 ### Prompt 1 — Consulta exploratória inicial
 
