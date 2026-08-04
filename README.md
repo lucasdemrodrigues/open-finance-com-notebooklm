@@ -64,7 +64,7 @@ Ao longo desta atividade, foram realizados diferentes testes de prompts no Noteb
 * **Objetivo:** Compreender o conceito de Open Finance e obter uma visão geral sobre o tema.
 * **Prompt utilizado:**
   > *"O que é Open Finance?"*
-* **Resumo da resposta:** Foi apresentada uma definição introdutória do Open Finance, explicando seu papel no sistema financeiro brasileiro, seus principais objetivos e alguns benefícios para consumidores e instituições financeiras.
+* **Resumo da resposta:** A consulta apresentou uma definição introdutória do Open Finance, explicando seu papel no sistema financeiro brasileiro, seus principais objetivos e alguns benefícios para consumidores e instituições financeiras.
 * **Fontes:** Open Finance – Banco Central do Brasil
 * **Limitações identificadas:** Embora correta, a resposta foi bastante introdutória. Faltaram informações sobre regulamentação, participantes do ecossistema e diferenças entre Open Finance e Open Banking.
 * **Refinamento realizado:** O prompt foi aprimorado para delimitar o contexto brasileiro e solicitar tópicos específicos, como regulamentação, participantes e funcionamento do sistema.
