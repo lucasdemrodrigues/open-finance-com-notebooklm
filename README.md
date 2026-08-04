@@ -120,7 +120,7 @@ Ao longo desta atividade, foram realizados diferentes testes de prompts no Noteb
 
 ## 🛠️ Cicatrizes (troubleshooting)
 
-Durante os testes com o NotebookLM, foram identificados alguns desafios e oportunidades de melhoria:
+Durante os testes, foram identificados alguns desafios e oportunidades de melhoria:
 
 * **Prompts genéricos:** Produziram respostas corretas, porém superficiais. Adicionar contexto delimitado (*"no cenário brasileiro sob as normas do BCB"*) elevou a qualidade das respostas.
 * **Fidelidade às fontes:** Solicitar que a IA utilizasse apenas as fontes adicionadas (*grounding*) aumentou a confiabilidade das informações e evitou alucinações.
