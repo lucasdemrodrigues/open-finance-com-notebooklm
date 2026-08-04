@@ -105,7 +105,7 @@ Ao longo desta atividade, foram realizados diferentes testes de prompts no Noteb
   > *- Quais são os benefícios do Open Finance?*  
   > *- Quais são os principais desafios?*  
   > *- Qual é o futuro do Open Finance?"*
-* **Resumo da resposta:** O material foi apresentado em formato de guia de estudos, utilizando linguagem mais clara, títulos bem definidos e recursos de formatação que facilitaram a leitura e a revisão do material.
+* **Resumo da resposta:** O material foi apresentado em formato de guia de estudos, utilizando linguagem mais clara, títulos bem definidos e recursos de formatação que facilitaram a leitura e a revisão.
 * **Fontes:**
   * *A Transformação Estrutural do Sistema Financeiro Brasileiro pelo Open Finance*
   * *Como o Open Finance está mudando a análise de crédito no Brasil*
