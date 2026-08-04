@@ -105,14 +105,14 @@ Ao longo desta atividade, realizei diferentes testes de prompts no NotebookLM pa
   > *- Quais são os benefícios do Open Finance?*  
   > *- Quais são os principais desafios?*  
   > *- Qual é o futuro do Open Finance?"*
-* **Resumo da resposta:** O material foi apresentado em formato de guia de estudos, utilizando linguagem mais clara, títulos bem definidos e recursos de formatação que facilitaram a leitura e a revisão.
+* **Resumo da resposta:** O material foi estruturado como um guia de estudos, utilizando linguagem mais clara, títulos bem definidos e recursos de formatação que facilitaram a leitura e a revisão.
 * **Fontes:**
   * *A Transformação Estrutural do Sistema Financeiro Brasileiro pelo Open Finance*
   * *Como o Open Finance está mudando a análise de crédito no Brasil*
   * *Open Finance para empresas patina em burocracia e trava crédito mais barato*
 * **Limitações identificadas:** A resposta atendeu ao objetivo proposto e não exigiu novos ajustes estruturais.
 * **Refinamento realizado:** A estratégia foi reutilizada na elaboração do glossário de conceitos-chave.
-* **Aprendizado:** Definir claramente o formato, a estrutura e o estilo esperado da resposta permite obter resultados consistentes e prontos para uso.
+* **Aprendizado:** Definir claramente o formato e o estilo esperados favorece resultados mais consistentes e bem estruturados.
   
 ---
 
@@ -120,12 +120,12 @@ Ao longo desta atividade, realizei diferentes testes de prompts no NotebookLM pa
 
 ## 🛠️ Cicatrizes (troubleshooting)
 
-Durante os testes, foram identificados alguns desafios e oportunidades de melhoria:
+Durante os testes, identifiquei alguns desafios e oportunidades de melhoria:
 
 * **Prompts genéricos:** Produziram respostas corretas, porém superficiais. Adicionar contexto delimitado (*"no cenário brasileiro sob as normas do BCB"*) elevou a qualidade das respostas.
 * **Fidelidade às fontes:** Solicitar que a IA utilizasse apenas as fontes adicionadas (*grounding*) aumentou a confiabilidade das informações e evitou alucinações.
 * **Formatação de saída:** Definir o formato esperado (tabelas, listas ou tópicos estruturados) facilitou a organização direta do conteúdo no README.
-* **Estilo e tom de voz:** Ajustar o estilo da resposta para uma abordagem de *"guia de estudos"* tornou o material mais claro e adequado ao público-alvo.
+* **Estilo e tom de voz:** Ajustar o tom para uma abordagem de “guia de estudos” tornou o material mais claro e adequado ao público-alvo.
 
 ---
   
