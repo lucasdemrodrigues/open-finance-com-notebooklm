@@ -189,6 +189,8 @@ Os participantes assumem diferentes papéis:
 ---
 
 #### 7. Qual é o futuro do Open Finance?
+Entre as tendências e possibilidades apontadas pelas fontes estão:
+
 * **Convergência Sistêmica:** O sistema não atuará sozinho; ele se unirá de forma estrutural ao **Pix** (Pix Automático e por aproximação) e ao **Drex** (a moeda digital tokenizada do Brasil). Isso permitirá *smart contracts* (contratos inteligentes) e "pagamentos agênticos" automáticos.
 * **Hiperpersonalização com IA:** Dados abertos alimentarão ferramentas de Inteligência Artificial generativa, fornecendo aos assistentes virtuais o contexto real do cliente em tempo real para renegociar dívidas ou fazer ofertas hiperpersonalizadas (NBO).
 * **Open Capital Markets (Mercado de Capitais):** Com a atuação da CVM, a plataforma evoluirá para abraçar os investimentos de forma mais profunda, democratizando o mercado de capitais e simplificando cadastros em corretoras.
