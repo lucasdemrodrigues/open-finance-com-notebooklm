@@ -123,7 +123,7 @@ Ao longo desta atividade, realizei diferentes testes de prompts no NotebookLM pa
 Durante os testes, identifiquei alguns desafios e oportunidades de melhoria:
 
 * **Prompts genéricos:** Produziram respostas corretas, porém superficiais. Adicionar contexto delimitado (*"no cenário brasileiro sob as normas do BCB"*) elevou a qualidade das respostas.
-* **Fidelidade às fontes:** Solicitar que a IA utilizasse apenas as fontes adicionadas (*grounding*) aumentou a confiabilidade das informações e evitou alucinações.
+* **Fidelidade às fontes:** Solicitar que a IA utilizasse apenas as fontes adicionadas (*grounding*) aumentou a confiabilidade das informações e reduziu o risco de alucinações.
 * **Formatação de saída:** Definir o formato esperado (tabelas, listas ou tópicos estruturados) facilitou a organização direta do conteúdo no README.
 * **Estilo e tom de voz:** Ajustar o tom para uma abordagem de “guia de estudos” tornou o material mais claro e adequado ao público-alvo.
 
