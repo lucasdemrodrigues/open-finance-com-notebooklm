@@ -34,7 +34,7 @@ Compreender o funcionamento do Open Finance no Brasil, analisando sua regulament
 
 ## 📚 Curadoria de fontes
 
-Para aumentar a confiabilidade das análises, selecionei 11 fontes de alta autoridade e diversidade metodológica, contemplando conteúdos em texto e vídeo de órgãos reguladores, instituições financeiras, especialistas do setor, entidades do consumidor e portais de notícias especializados:
+Para aumentar a confiabilidade das análises, selecionei 11 fontes de diferentes formatos e perspectivas, contemplando conteúdos em texto e vídeo de órgãos reguladores, instituições financeiras, especialistas do setor, entidades do consumidor e portais de notícias especializados:
 
 ### 📄 Textos:
 - 🏛️ **[Página Oficial do Open Finance — Banco Central do Brasil (BCB)](https://www.bcb.gov.br/estabilidadefinanceira/openfinance):** Documentação técnica e regulatória oficial sobre os pilares, diretrizes e funcionamento do ecossistema no Brasil.
