@@ -8,7 +8,6 @@
 ![Bootcamp](https://img.shields.io/badge/Bootcamp-Santander%20%2B%20DIO-red)
 ![Tema](https://img.shields.io/badge/Tema-Open%20Finance-blue)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-673AB7?logo=google&logoColor=white)
-![NotebookLM](https://img.shields.io/badge/NotebookLM-202124?logo=google&logoColor=white)
 
 ## 📑 Índice
 
