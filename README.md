@@ -7,6 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
 ![Bootcamp](https://img.shields.io/badge/Bootcamp-Santander%20%2B%20DIO-red)
 ![Tema](https://img.shields.io/badge/Tema-Open%20Finance-blue)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?logo=google&logoColor=white)
 
 ## 📑 Índice
 
