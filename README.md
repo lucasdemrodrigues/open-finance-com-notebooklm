@@ -11,7 +11,7 @@
 
 ## 📑 Índice
 
-- [Contexto](#-contexto)
+- [🌐 Contexto](#-contexto)
 - [Objetivo](#-objetivo)
 - [Curadoria de fontes](#-curadoria-de-fontes)
 - [Engenharia de prompts](#-engenharia-de-prompts)
