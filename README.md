@@ -14,7 +14,7 @@
     <strong>🔗 Explore o caderno temático</strong>
   </a>
   <br>
-  <sub>Acesse as fontes selecionadas e os materiais interativos produzidos no Estúdio.</sub>
+  <sub>Acesse as fontes selecionadas e os materiais interativos gerados no Estúdio.</sub>
 </p>
 
 ## 📑 Índice
