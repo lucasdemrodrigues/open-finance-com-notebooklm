@@ -285,7 +285,7 @@ Nesta atividade, explorei diferentes formatos de saída oferecidos pelo Notebook
 
 Como exemplo, apresento abaixo o infográfico gerado a partir das fontes selecionadas para este caderno temático.
 
-<img width="2752" height="1536" alt="Revolução_do_Open_Finance_Brasil" src="https://github.com/user-attachments/assets/1db802d7-a0a2-4f00-9434-4fc029ea7c85" />
+<img width="2752" height="1536" alt="Infográfico_Open_Finance_no_Brasil" src="https://github.com/user-attachments/assets/ab9a822f-c1d9-4ace-8f28-38a6b556a6b4" />
 
 ## 💡 Aprendizados
 
