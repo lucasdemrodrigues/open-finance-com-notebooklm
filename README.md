@@ -109,7 +109,7 @@ Ao longo desta atividade, realizei diferentes testes de prompts no NotebookLM pa
   > *- Qual é o futuro do Open Finance?"*
 * **Resumo da resposta:** O material foi estruturado como um guia de estudos, utilizando linguagem mais clara, títulos bem definidos e recursos de formatação que facilitaram a leitura e a revisão.
 * **Fontes:**
-    * *Como o Open Finance está mudando a análise de crédito no Brasil*
+  * *Como o Open Finance está mudando a análise de crédito no Brasil*
   * *Open Finance para empresas patina em burocracia e trava crédito mais barato*
 * **Limitações identificadas:** A resposta atendeu ao objetivo proposto e não exigiu novos ajustes estruturais.
 * **Refinamento realizado:** A estratégia foi reutilizada na elaboração do glossário de conceitos-chave.
