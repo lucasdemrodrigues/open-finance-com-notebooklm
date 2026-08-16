@@ -9,7 +9,7 @@
 ![Tema](https://img.shields.io/badge/Tema-Open%20Finance-blue)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-673AB7?logo=google&logoColor=white)
 
-🔗 [**Explore o caderno temático**](https://notebook.google.com/notebook/40f882a9-d781-47bb-ab3f-6a865ab25824) <sub>• Acesse as fontes selecionadas e os materiais interativos gerados no Estúdio.</sub>
+🔗 [**Explore o caderno temático**](https://notebook.google.com/notebook/40f882a9-d781-47bb-ab3f-6a865ab25824) <sub>Acesse as fontes selecionadas e os materiais interativos gerados no Estúdio.</sub>
 
 <p align="center">
   <a href="https://notebook.google.com/notebook/40f882a9-d781-47bb-ab3f-6a865ab25824">
