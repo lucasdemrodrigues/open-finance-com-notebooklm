@@ -43,8 +43,6 @@ Compreender o funcionamento do Open Finance no Brasil, analisando sua regulament
 
 > **Recorte temporal:** este miniguia foi elaborado com base em fontes consultadas até agosto de 2026 e representa o estágio do Open Finance nesse período. Como o ecossistema continua evoluindo, aspectos regulatórios, tecnológicos e operacionais podem sofrer alterações posteriores.
 
-> 🔗 **[Acesse o caderno temático no NotebookLM](LINK_DO_NOTEBOOK):** consulte as 11 fontes selecionadas e explore os materiais gerados no Estúdio, incluindo infográfico, mapa mental, apresentação, debate em áudio e vídeo explicativo.
-
 ## 📚 Curadoria de fontes
 
 Para aumentar a confiabilidade das análises, selecionei 11 fontes de diferentes formatos e perspectivas, contemplando conteúdos em texto e vídeo de órgãos reguladores, instituições financeiras, especialistas do setor, entidades do consumidor e portais de notícias especializados.
