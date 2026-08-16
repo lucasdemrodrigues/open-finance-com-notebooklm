@@ -40,15 +40,15 @@ Compreender o funcionamento do Open Finance no Brasil, analisando sua regulament
 
 ## 📚 Curadoria de fontes
 
-Para aumentar a confiabilidade das análises, selecionei 11 fontes de diferentes formatos e perspectivas, contemplando conteúdos em texto e vídeo de órgãos reguladores, instituições financeiras, especialistas do setor, entidades do consumidor e portais de notícias especializados.
+Para aumentar a confiabilidade das análises, selecionei 11 fontes de diferentes formatos e perspectivas, contemplando conteúdos em texto e vídeo de órgãos reguladores, instituições financeiras, especialistas do setor e portais de notícias especializados.
 
 ### 📄 Textos:
 - 🏛️ **[Página Oficial do Open Finance — Banco Central do Brasil (BCB)](https://www.bcb.gov.br/estabilidadefinanceira/openfinance):** Documentação técnica e regulatória oficial sobre os pilares, diretrizes e funcionamento do ecossistema no Brasil.
-- 📈 **[Brasil lidera Open Finance no mundo com 100 milhões de clientes — Finsiders Brasil](https://finsidersbrasil.com.br/economia-open/brasil-lidera-open-finance-no-mundo-com-100-milhoes-de-clientes/):** Análise quantitativa do crescimento de conexões, adesão do público e comparativo de maturidade frente a outros países.
+- 📈 **[Open Finance supera 100 milhões de clientes, mas potencial é ainda maior — Finsiders Brasil](https://finsidersbrasil.com.br/economia-open/brasil-lidera-open-finance-no-mundo-com-100-milhoes-de-clientes/):** Análise quantitativa do crescimento de conexões, adesão do público e comparativo de maturidade frente a outros países.
 - 🏦 **[Portal de Transparência e Jornadas do Open Finance — Santander Brasil](https://www.santander.com.br/banco/open-finance/):** Exemplo prático de portal institucional apresentando benefícios de portabilidade, agregação de saldos e termos de consentimento.
 - 💳 **[Como o Open Finance está mudando a análise de crédito no Brasil — Valor Investe (Maio/2026)](https://valorinveste.globo.com/produtos/servicos-financeiros/noticia/2026/05/28/como-o-open-finance-esta-mudando-a-analise-de-credito-no-brasil.ghtml):** Matéria explicativa sobre a transição do *score* tradicional para a análise comportamental de fluxo de caixa e histórico real.
 - 🏢 **[Open Finance para empresas patina em burocracia e trava crédito mais barato — Valor Investe (Maio/2026)](https://valorinveste.globo.com/produtos/servicos-financeiros/noticia/2026/05/29/open-finance-para-empresas-patina-em-burocracia-e-trava-credito-mais-barato.ghtml):** Análise de gargalos e fricções nas jornadas B2B, com foco em empresas de múltiplos sócios e alçadas de aprovação.
-- 🛡️ **[O futuro das finanças depende de uma inovação em que se possa confiar — Exame](https://exame.com/future-of-money/o-futuro-das-financas-depende-de-uma-inovacao-em-que-se-possa-confiar/):** Artigo de opinião cobrindo privacidade de dados, governança, segurança cibernética e alinhamento com a LGPD.
+- 🛡️ **[O futuro das finanças e do Open Finance depende de preservar a confiança — Exame](https://exame.com/future-of-money/o-futuro-das-financas-depende-de-uma-inovacao-em-que-se-possa-confiar/):** Artigo de opinião cobrindo privacidade de dados, governança, segurança cibernética e alinhamento com a LGPD.
 - 🤖 **[Pagamentos invisíveis ganham espaço com Pix, Open Finance e Inteligência Artificial — Brasil Economy (Julho/2026)](https://brazileconomy.com.br/opiniao/2026/07/pagamentos-invisiveis-ganham-espaco-com-pix-open-finance-e-inteligencia-artificial/):** Visão de futuro sobre a convergência entre trilhos do Pix, Jornada Sem Redirecionamento (JSR), finanças autônomas e modelos de IA.
 
 ### 🎥 Vídeos:
@@ -178,7 +178,7 @@ Os participantes assumem diferentes papéis:
 ---
 
 #### 5. Quais são os benefícios do Open Finance?
-* **Análise de crédito comportamental:** Ao invés de usar apenas o *score* baseado em dívidas, as instituições podem ver o fluxo de caixa real, os investimentos e a renda recorrente. Isso ajuda a aprovar crédito para autônomos e negativados recuperados, reduzindo taxas de juros.
+* **Análise de crédito comportamental:** Em vez de considerar apenas o *score* e o histórico tradicional, as instituições podem analisar informações como fluxo de caixa, investimentos e renda recorrente. Isso pode contribuir para avaliações de crédito mais abrangentes, especialmente para pessoas com poucas informações no histórico tradicional, e favorecer a oferta de condições mais adequadas ao perfil do cliente.
 * **Gestão financeira unificada:** O cliente pode usar seu aplicativo favorito (*agregador*) para visualizar saldos, faturas e limites de todos os seus bancos em uma única tela.
 * **Portabilidade de crédito digital:** Transferência de empréstimos e dívidas para o banco que oferecer a melhor taxa, sem precisar lidar com papeladas ou burocracia física.
 * **Pagamentos invisíveis e ágeis:** Iniciar pagamentos, como o Pix, direto de um site de compras ou aplicativo de delivery, sem precisar abrir o app do banco (*Jornada Sem Redirecionamento*).
@@ -195,9 +195,9 @@ Os participantes assumem diferentes papéis:
 #### 7. Qual é o futuro do Open Finance?
 Entre as tendências e possibilidades apontadas pelas fontes estão:
 
-* **Convergência Sistêmica:** O sistema não atuará sozinho; ele se unirá de forma estrutural ao **Pix** (Pix Automático e por aproximação) e ao **Drex** (a moeda digital tokenizada do Brasil). Isso permitirá *smart contracts* (contratos inteligentes) e "pagamentos agênticos" automáticos.
-* **Hiperpersonalização com IA:** Dados abertos alimentarão ferramentas de Inteligência Artificial generativa, fornecendo aos assistentes virtuais o contexto real do cliente em tempo real para renegociar dívidas ou fazer ofertas hiperpersonalizadas (NBO).
-* **Open Capital Markets (Mercado de Capitais):** Com a atuação da CVM, a plataforma evoluirá para abraçar os investimentos de forma mais profunda, democratizando o mercado de capitais e simplificando cadastros em corretoras.
+* **Convergência sistêmica:** entre as possibilidades apontadas está uma integração crescente do Open Finance com soluções como Pix e Drex, ampliando os casos de uso do ecossistema financeiro digital.
+* **Hiperpersonalização com IA:** os dados compartilhados mediante consentimento podem apoiar ferramentas de Inteligência Artificial na criação de análises e ofertas mais contextualizadas.
+* **Open Capital Markets (Mercado de Capitais):** a aproximação entre o Banco Central e a CVM pode ampliar a integração de produtos e serviços do mercado de capitais ao ecossistema.
 
 ---
 
@@ -208,7 +208,7 @@ Entre as tendências e possibilidades apontadas pelas fontes estão:
 | **API (Application Programming Interface)** | Tecnologia segura que permite a comunicação e a integração padronizada entre os sistemas de diferentes instituições financeiras, sem centralizar as informações. |
 | **Associação Open Finance** | Estrutura de governança gerida por instituições participantes e supervisionada pelo Banco Central, responsável por definir os padrões técnicos, operacionais e de segurança, além de monitorar o ecossistema. |
 | **Consentimento** | Autorização prévia, livre, informada e inequívoca do cliente (por meios eletrônicos) para compartilhar seus dados ou iniciar um pagamento. Tem prazo de validade (até 12 meses), finalidade específica e pode ser revogado a qualquer momento. |
-| **Drex (Real Digital)** | Representação oficial em formato digital (tokenizado) da moeda soberana brasileira, operando em rede segura que permite a criação de *smart contracts* para automação de transações. |
+| **Drex** | Infraestrutura em desenvolvimento pelo Banco Central para viabilizar a liquidação de transações com ativos digitais e representações tokenizadas de ativos e valores. |
 | **Iniciadora de Transação de Pagamento (ITP)** | Instituição autorizada a comandar uma transferência ou pagamento a pedido do cliente a partir de plataformas de terceiros, sem nunca reter ou deter os fundos transacionados. |
 | **Instituição Detentora de Conta** | Instituição financeira ou de pagamento na qual o cliente possui e mantém sua conta (depósito, poupança ou pré-paga) de livre movimentação. |
 | **Instituição Receptora de Dados** | Instituição participante que, com a prévia autorização do cliente, solicita e recebe os dados financeiros que estavam armazenados em outro banco. |
