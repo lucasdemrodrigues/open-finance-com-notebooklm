@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://notebook.google.com/notebook/40f882a9-d781-47bb-ab3f-6a865ab25824">
-    <strong>🔗 Explorar o caderno temático</strong>
+    <strong>🔗 Explore o caderno temático</strong>
   </a>
   <br>
   <sub>Acesse as fontes selecionadas e os materiais interativos produzidos no Estúdio.</sub>
