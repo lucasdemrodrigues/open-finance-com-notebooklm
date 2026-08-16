@@ -12,6 +12,8 @@
 > 🔗 **Acesse o Notebook no NotebookLM:** [Explore o caderno temático interativo](LINK_AQUI)  
 > *Consulte as fontes selecionadas, notas e materiais gerados no Estúdio.*
 
+[![NotebookLM](https://img.shields.io/badge/Acessar-NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)](LINK_AQUI)
+
 <p align="center">
   <a href="https://notebook.google.com/notebook/40f882a9-d781-47bb-ab3f-6a865ab25824">
     <strong>🔗 Explore o caderno temático</strong>
