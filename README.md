@@ -88,7 +88,6 @@ Ao longo desta atividade, realizei diferentes testes de prompts no NotebookLM pa
   > *- Perspectivas futuras."*
 * **Resumo da resposta:** O conteúdo foi organizado nos tópicos solicitados, abordando desde os conceitos fundamentais até os desafios atuais e as perspectivas futuras do Open Finance no Brasil.
 * **Fontes:** 
-  * *A Transformação Estrutural do Sistema Financeiro Brasileiro pelo Open Finance: Análise sobre Inclusão, Competitividade e Convergência Tecnológica*
   * *Open Finance para empresas patina em burocracia e trava crédito mais barato*
 * **Limitações identificadas:** Apesar da boa organização, a linguagem utilizada ficou muito próxima dos documentos técnicos originais, tornando a leitura menos fluida para um guia de estudos.
 * **Refinamento realizado:** Foi solicitado um tom mais didático, semelhante ao de um guia de estudos, sem comprometer o rigor técnico das informações.
@@ -110,8 +109,7 @@ Ao longo desta atividade, realizei diferentes testes de prompts no NotebookLM pa
   > *- Qual é o futuro do Open Finance?"*
 * **Resumo da resposta:** O material foi estruturado como um guia de estudos, utilizando linguagem mais clara, títulos bem definidos e recursos de formatação que facilitaram a leitura e a revisão.
 * **Fontes:**
-  * *A Transformação Estrutural do Sistema Financeiro Brasileiro pelo Open Finance*
-  * *Como o Open Finance está mudando a análise de crédito no Brasil*
+    * *Como o Open Finance está mudando a análise de crédito no Brasil*
   * *Open Finance para empresas patina em burocracia e trava crédito mais barato*
 * **Limitações identificadas:** A resposta atendeu ao objetivo proposto e não exigiu novos ajustes estruturais.
 * **Refinamento realizado:** A estratégia foi reutilizada na elaboração do glossário de conceitos-chave.
