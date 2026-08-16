@@ -33,7 +33,7 @@ O tema escolhido foi Open Finance, uma iniciativa que vem transformando o sistem
 
 Compreender o funcionamento do Open Finance no Brasil, analisando sua regulamentação, seus benefícios, desafios e impactos para consumidores, instituições financeiras e fintechs.
 
-> **Recorte temporal:** este miniguia foi elaborado com base em fontes consultadas até agosto de 2026 e representa o estágio do Open Finance naquele período. Como o ecossistema continua evoluindo, aspectos regulatórios, tecnológicos e operacionais podem sofrer alterações posteriores.
+> **Recorte temporal:** este miniguia foi elaborado com base em fontes consultadas até agosto de 2026 e representa o estágio do Open Finance nesse período. Como o ecossistema continua evoluindo, aspectos regulatórios, tecnológicos e operacionais podem sofrer alterações posteriores.
 
 ## 📚 Curadoria de fontes
 
