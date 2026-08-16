@@ -9,6 +9,14 @@
 ![Tema](https://img.shields.io/badge/Tema-Open%20Finance-blue)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-673AB7?logo=google&logoColor=white)
 
+<p align="center">
+  <a href="https://notebook.google.com/notebook/40f882a9-d781-47bb-ab3f-6a865ab25824">
+    <strong>🔗 Explorar o caderno temático no NotebookLM</strong>
+  </a>
+  <br>
+  <sub>Acesse as fontes selecionadas e os materiais interativos produzidos no Estúdio.</sub>
+</p>
+
 ## 📑 Índice
 
 - [Contexto](#-contexto)
