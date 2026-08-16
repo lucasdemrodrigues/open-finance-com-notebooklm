@@ -289,9 +289,9 @@ Os prompts abaixo foram desenvolvidos a partir da experiência adquirida neste p
 
 ## 📊 Infográfico
 
-Nesta atividade, explorei diferentes formatos de saída oferecidos pelo NotebookLM, como apresentações, vídeos, áudios e mapas mentais, entre outros recursos.
+Nesta atividade, explorei diferentes formatos de saída disponíveis no Estúdio do NotebookLM, incluindo apresentação de slides, vídeo explicativo, debate em áudio, mapa mental e infográfico.
 
-Como exemplo, apresento abaixo o infográfico gerado a partir das fontes selecionadas para este caderno temático.
+Como exemplo visual, apresento abaixo o infográfico gerado com base nas 11 fontes selecionadas para este caderno temático.
 
 <img width="2752" height="1536" alt="Infográfico_Open_Finance_no_Brasil" src="https://github.com/user-attachments/assets/ab9a822f-c1d9-4ace-8f28-38a6b556a6b4" />
 
