@@ -1,5 +1,6 @@
 {
   "portfolio": true,
+  "order": 2,
   "title": "Open Finance com NotebookLM",
   "categories": ["IA"],
   "description": "Miniguia de estudos criado a partir de curadoria de fontes, engenharia de prompts e síntese estruturada sobre o ecossistema brasileiro de Open Finance.",
