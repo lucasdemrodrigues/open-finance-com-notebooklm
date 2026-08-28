@@ -1,0 +1,9 @@
+{
+  "portfolio": true,
+  "title": "Open Finance com NotebookLM",
+  "categories": ["IA"],
+  "description": "Miniguia de estudos criado a partir de curadoria de fontes, engenharia de prompts e síntese estruturada sobre o ecossistema brasileiro de Open Finance.",
+  "image": "https://github.com/user-attachments/assets/e5dbfc0b-9fd2-4091-ac52-5777ca0c3cc1",
+  "tags": ["NotebookLM", "Pesquisa", "Prompt Engineering", "Open Finance"],
+  "eyebrow": "IA & PESQUISA"
+}
