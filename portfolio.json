@@ -2,8 +2,12 @@
   "portfolio": true,
   "order": 2,
   "title": "Open Finance no Gemini Notebook",
+  "title_en": "Open Finance in Gemini Notebook",
+  "title_es": "Open Finance en Gemini Notebook",
   "categories": ["IA"],
   "description": "Organização e síntese de informações sobre o Open Finance brasileiro a partir de curadoria de fontes e engenharia de prompts, com foco em facilitar a compreensão de seus principais atores, oportunidades e impactos no mercado financeiro.",
+  "description_en": "Organization and synthesis of information on Brazilian Open Finance through source curation and prompt engineering, making its main players, opportunities and market impacts easier to understand.",
+  "description_es": "Organización y síntesis de información sobre el Open Finance brasileño mediante curaduría de fuentes e ingeniería de prompts, con foco en facilitar la comprensión de sus principales actores, oportunidades e impactos en el mercado financiero.",
   "image": "https://raw.githubusercontent.com/lucasdemrodrigues/open-finance-com-notebooklm/main/assets/portfolio-preview.webp",
   "tags": ["Gemini Notebook", "Pesquisa", "Prompt Engineering", "Open Finance"],
   "eyebrow": "IA & PESQUISA"
