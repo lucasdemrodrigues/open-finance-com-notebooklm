@@ -10,5 +10,7 @@
   "description_es": "Organización y síntesis de información sobre el Open Finance brasileño mediante curaduría de fuentes e ingeniería de prompts, con foco en facilitar la comprensión de sus principales actores, oportunidades e impactos en el mercado financiero.",
   "image": "https://raw.githubusercontent.com/lucasdemrodrigues/open-finance-com-notebooklm/main/assets/portfolio-preview.webp",
   "tags": ["Gemini Notebook", "Pesquisa", "Prompt Engineering", "Open Finance"],
-  "eyebrow": "IA & PESQUISA"
+  "eyebrow": "IA & PESQUISA",
+  "eyebrow_en": "AI & RESEARCH",
+  "eyebrow_es": "IA & INVESTIGACIÓN"
 }
