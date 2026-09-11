@@ -2,12 +2,12 @@
 
 <img width="4400" height="777" alt="Capa Open Finance" src="assets/open-finance-cover.webp" />
 
-# Miniguia de estudos: Open Finance no Brasil com NotebookLM
+# Miniguia de estudos: Open Finance no Brasil com Gemini Notebook
 
 ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
 ![Bootcamp](https://img.shields.io/badge/Bootcamp-Santander%20%2B%20DIO-red)
 ![Tema](https://img.shields.io/badge/Tema-Open%20Finance-blue)
-![NotebookLM](https://img.shields.io/badge/NotebookLM-673AB7?logo=google&logoColor=white)
+![Gemini Notebook](https://img.shields.io/badge/Gemini%20Notebook-673AB7?logo=google&logoColor=white)
 
 🔗 [**Explore o caderno temático**](https://notebook.google.com/notebook/40f882a9-d781-47bb-ab3f-6a865ab25824)  
 <sub>Acesse as fontes selecionadas e os materiais interativos gerados no Estúdio.</sub>
@@ -28,7 +28,7 @@
 
 ## 🌐 Contexto
 
-Este repositório foi desenvolvido como parte do Bootcamp Santander em parceria com a DIO, explorando o uso do NotebookLM como ferramenta de apoio à aprendizagem ativa.
+Este repositório foi desenvolvido como parte do Bootcamp Santander em parceria com a DIO, explorando o uso do Gemini Notebook, anteriormente chamado NotebookLM, como ferramenta de apoio à aprendizagem ativa.
 
 O tema escolhido foi Open Finance, uma iniciativa que vem transformando o sistema financeiro brasileiro por meio do compartilhamento seguro de dados, possibilitando novas experiências para consumidores, instituições financeiras e fintechs.
 
@@ -63,7 +63,7 @@ Para aumentar a confiabilidade das análises, selecionei 11 fontes de diferentes
 
 ## 🧠 Engenharia de prompts
 
-Ao longo desta atividade, realizei diferentes testes de prompts no NotebookLM para obter resultados cada vez mais completos, organizados e alinhados à proposta do estudo.
+Ao longo desta atividade, realizei diferentes testes de prompts no Gemini Notebook para obter resultados cada vez mais completos, organizados e alinhados à proposta do estudo.
 
 ### Prompt 1 — Consulta exploratória inicial
 
@@ -222,7 +222,7 @@ Entre as tendências e possibilidades apontadas pelas fontes estão:
 
 ### 🔄 Prompts reutilizáveis
 
-Os prompts abaixo foram desenvolvidos a partir da experiência adquirida neste projeto e funcionam como um framework adaptável para estudar diferentes temas com ferramentas de IA baseadas em fontes, como o NotebookLM.
+Os prompts abaixo foram desenvolvidos a partir da experiência adquirida neste projeto e funcionam como um framework adaptável para estudar diferentes temas com ferramentas de IA baseadas em fontes, como o Gemini Notebook.
 
 > **Como utilizar:** copie o prompt desejado e substitua [tema] pelo assunto que deseja estudar (por exemplo: Open Finance no Brasil, Pix Automático ou LGPD e Segurança Bancária).
 
@@ -284,7 +284,7 @@ Os prompts abaixo foram desenvolvidos a partir da experiência adquirida neste p
 
 ## 📊 Infográfico
 
-Nesta atividade, explorei diferentes formatos de saída disponíveis no Estúdio do NotebookLM, incluindo apresentação de slides, vídeo explicativo, debate em áudio, mapa mental e infográfico.
+Nesta atividade, explorei diferentes formatos de saída disponíveis no Estúdio do Gemini Notebook, incluindo apresentação de slides, vídeo explicativo, debate em áudio, mapa mental e infográfico.
 
 Como exemplo visual, apresento abaixo o infográfico gerado com base nas 11 fontes selecionadas para este caderno temático.
 
@@ -297,7 +297,7 @@ Ao longo deste projeto, pude aprimorar:
 - Conhecimentos sobre Open Finance e seu impacto no sistema financeiro brasileiro;
 - Curadoria de fontes confiáveis e organização do conhecimento;
 - Engenharia de prompts para obter respostas mais precisas;
-- Uso do NotebookLM como ferramenta de aprendizagem ativa;
+- Uso do Gemini Notebook como ferramenta de aprendizagem ativa;
 - Pensamento crítico para analisar e validar respostas;
 - Documentação de projetos utilizando Markdown e GitHub.
 
