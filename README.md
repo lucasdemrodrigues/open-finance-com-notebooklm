@@ -71,7 +71,7 @@ Ao longo desta atividade, realizei diferentes testes de prompts no Gemini Notebo
 * **Prompt utilizado:**
   > *"O que é Open Finance?"*
 * **Resumo da resposta:** A consulta apresentou uma definição introdutória do Open Finance, explicando seu papel no sistema financeiro brasileiro, seus principais objetivos e alguns benefícios para consumidores e instituições financeiras.
-* **Fonte:** Open Finance – Banco Central do Brasil
+* **Fonte:** *Open Finance — Banco Central do Brasil*
 * **Limitações identificadas:** Embora correta, a explicação foi bastante introdutória. Faltaram informações sobre regulamentação, participantes do ecossistema e diferenças entre Open Finance e Open Banking.
 * **Refinamento realizado:** O prompt foi aprimorado para delimitar o contexto brasileiro e solicitar tópicos específicos, como regulamentação, participantes e funcionamento do sistema.
 * **Aprendizado:** Prompts mais específicos e contextualizados tendem a gerar respostas mais completas e alinhadas ao objetivo do estudo.
@@ -286,7 +286,7 @@ Os prompts abaixo foram desenvolvidos a partir da experiência adquirida neste p
 
 Nesta atividade, explorei diferentes formatos de saída disponíveis no Estúdio do Gemini Notebook, incluindo apresentação de slides, vídeo explicativo, debate em áudio, mapa mental e infográfico.
 
-Como exemplo visual, apresento abaixo o infográfico gerado com base nas 11 fontes selecionadas para este caderno temático.
+Como exemplo visual, apresento abaixo uma das peças geradas com base nas 11 fontes selecionadas para este caderno temático.
 
 <img width="2752" height="1536" alt="Infográfico_Open_Finance_no_Brasil" src="https://github.com/user-attachments/assets/ab9a822f-c1d9-4ace-8f28-38a6b556a6b4" />
 
